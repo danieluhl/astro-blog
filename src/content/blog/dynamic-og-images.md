@@ -9,7 +9,7 @@ tags:
   - docs
   - release
 ogImage: ""
-description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
+description: Dynamic OG image generation in AstroPaper blog posts
 ---
 
 New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.

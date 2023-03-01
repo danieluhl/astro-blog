@@ -3,34 +3,39 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+My name is Daniel Uhl. I've moved a lot:
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+- Bozeman, MT
+- Portalnd, OR
+- San Diego, CA
+- Boston, MA
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I live in Boston and work as a frontend focusted full-stack polyglot
+engineer for remote companies.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## Work
 
-## Tech Stack
+I've been coding for over 15 years and still going strong.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- Tech lead
+- Platform team
+- Product team (ecommerce)
+- Engineering Manager
 
-## Features
+## Gear
 
-Here are certain features of this site.
+I'm a VIM user. See my full computer setup in my [annual routines review
+post](posts/annual-routines-review).
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Podcast (Luculent Lollygag)
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I do a podcast with a few friends who I've worked with in the past. It's mostly
+about software engineering but I reflect a lot of the ideas from this blog
+in that podcast. Check out luculent lollygag on your favorite podcast
+platform.
+
+## Contact Me
+
+All my socials are linked from the homepage! PRs on [this
+repo](https://github.com/danieluhl/astro-blog) are also
+welcome.
