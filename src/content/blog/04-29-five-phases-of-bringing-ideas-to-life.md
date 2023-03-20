@@ -4,8 +4,6 @@ pubDatetime: 2021-04-29T12:13:24.000Z
 description: Five Phases Of Bringing Ideas To Life
 ---
 
-# Five Phases Of Bringing Ideas To Life
-
 # Five Phases of Bringing Ideas to Life
 
 This post covers some general advice for working through and rolling out new ideas or initiatives across your team or multiple teams.

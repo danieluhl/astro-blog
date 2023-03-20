@@ -4,11 +4,14 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
+// import linkFixerIntegration from "./scripts/linkFixerIntegration.mjs";
+import { remarkLinkFixer } from "./scripts/remarkLinkFixer.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://blog.reyan.me",
   integrations: [
+    // linkFixerIntegration(),
     tailwind({
       config: {
         applyBaseStyles: false,
@@ -19,13 +22,9 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
+      remarkLinkFixer,
       remarkToc,
-      [
-        remarkCollapse,
-        {
-          test: "Table of contents",
-        },
-      ],
+      [remarkCollapse, { test: "Table of Contents" }],
     ],
     shikiConfig: {
       theme: "one-dark-pro",

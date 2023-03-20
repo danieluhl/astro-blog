@@ -4,8 +4,6 @@ pubDatetime: 2021-04-29T12:13:24.000Z
 description: Forem At Wayfair
 ---
 
-# Forem At Wayfair
-
 # Forem at Wayfair
 
 Forem powers this site (dev.to) which I've loved for a little over a year now. I'm writing this at the precipice of diving into an evaluation of forem for community building at Wayfair. This is my first take at comparing against our current tooling and strategy and talking through where I think forem can shine for large companies.
