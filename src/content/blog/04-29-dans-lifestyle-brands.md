@@ -1,6 +1,6 @@
 ---
 title: Dans Lifestyle Brands
-pubDatetime: 2021-04-29T12:13:24.000Z
+pubDatetime: 2023-03-21
 tags:
   - upkeep
 description: Dans Lifestyle Brands
@@ -10,19 +10,38 @@ description: Dans Lifestyle Brands
 
 This is an ongoing list of things I actively use and enjoy. Many of these have come from years of personal experience, others I stumbled into something I like first try. Comment if you've tried one of these but found something even better.
 
+## TLDR recommendations
+
+- [breville barista express](https://www.williams-sonoma.com/products/breville-barista-express-espresso-maker/)
+- [Awesome Coffee Club](https://awesomecoffeeclub.com/)
+- [Amazon Essentials hoodie](https://www.amazon.com/gp/product/B07NYBGWKG/)
+  - Upgrade: [SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt)
+  - Lottery winners $$$: [Relwen Hoodie](https://relwen.com/)
+- [Uniqlo Undershirts](https://www.uniqlo.com/us/en/men/heattech)
+  - Upgrade: [Lulu Lemon T-shirts](https://shop.lululemon.com/c/mens-t-shirts/)
+- [Vuori Sunday Performance Jogger](https://vuoriclothing.com/products/sunday-performance-jogger-black)
+- [Vuori Ponto Performance half zip hoodie](https://vuoriclothing.com/products/ponto-performance-half-zip-hoodie-platinum-heather
+
 ### Coffee
 
 I recently purchased a top of the line drip coffee maker for $350 from Williams Sonoma. I was dreadfully underwhelmed. The aeropress was better and only $15. About this point I realized I really don't like either, I prefer espresso drinks, specifically a great flat white. I learned that a cappuccino is a latte with less milk and a flat white is a cappuccino with a double shot.
 
 So after going waaay to far into the weeds of researching all things coffee I bought what I think is a good level of automation vs control to get the best coffee I want in the morning. I got the [breville barista express](https://www.williams-sonoma.com/products/breville-barista-express-espresso-maker/) and swapped out the double shot basket with the best one I could find on amazon. This gives you control over the grind size, dose, tamp, shot, and milk while taking care of the temp and pressure for you. To me this is the right balance for a casual espresso enthusiast because if the temp or pressure seem wacky you can adjust the grind and dose to fit and once you find a rhythm it's very little effort when you just want that first cup in the morning.
 
-I then got the bluebottle two week coffee subscription specifying their espresso blends. They send helpful dose, temp, and timing on an info card with every bag. Then I got an adjustable distribution and tamping tool to further automate that part (although it does need adjusting when changing beans sometimes).
+~~I then got the bluebottle two week coffee subscription specifying their espresso blends. They send helpful dose, temp, and timing on an info card with every bag. Then I got an adjustable distribution and tamping tool to further automate that part (although it does need adjusting when changing beans sometimes).~~
+
+UPDATE: bluebottle raised their coffee subscription prices so I found the
+[Awesome Coffee Club](https://awesomecoffeeclub.com/) and haven't looked back.
+They source well and donate ALL profit to a good cause.
 
 ### Hoodie
 
-My current hoodie strategy is to buy one new [Amazon Essentials hoodie](https://www.amazon.com/gp/product/B07NYBGWKG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) each year. It's soft and durable, looks great, and you don't need to worry about the price.
+My current hoodie strategy is to buy one new [Amazon Essentials hoodie](https://www.amazon.com/gp/product/B07NYBGWKG/) each year. It's soft and durable, looks great, and you don't need to worry about the price.
 
-If you're looking for the absolute best hoodie, I recommend the [Feat Hoodie](https://featclothing.com/collections/the-softest-hoodies-ever) but beware, I would mine did have noticeable wear after one year too. And I can't bring myself to spend this much every year.
+~~If you're looking for the absolute best hoodie, I recommend the [Feat Hoodie](https://featclothing.com/collections/the-softest-hoodies-ever) but beware, I would mine did have noticeable wear after one year too. And I can't bring myself to spend this much every year.~~
+
+UPDATE: My new fav is the [SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt). It runs a bit skinny but the
+softness is amazing.
 
 I do NOT recommend the [flint and tinder 10 year hoodie](https://huckberry.com/store/shop/flint-and-tinder-10-year-collection). Yes it may last longer, but you'll suffer through every moment of wearing it. Super uncomfortable, not stretchy, not very warm.
 
@@ -34,19 +53,28 @@ Get the large version, a big portion of the cup is battery/heating element so it
 
 ### Underwear
 
-I'm still highly recommending [Me Undies](https://www.meundies.com/)
+~~I'm still highly recommending [Me Undies](https://www.meundies.com/)
 
 Never go shopping for underwear again. I can't stand bland underwear and love getting these each month. The worst thing about subscriptions is the hassle of canceling them. Me Undies handles this well, I've canceled and re-subscribed several times with no problems.
 
-The only issue I've had is trying to keep track of which pair is the oldest to know what to throw away first. Please let me know if there's an easy strategy to manage this!
+The only issue I've had is trying to keep track of which pair is the oldest to know what to throw away first. Please let me know if there's an easy strategy to manage this!~~
 
-### [Socks, undershirts, long sleeve shirts: Uniqlo!](https://www.uniqlo.com/us/en/men/heattech)
+UPDATE: Me Undies has raised their prices and I'm in the market for an
+alternative option
+
+### [Undershirts, long sleeve shirts: Uniqlo!](https://www.uniqlo.com/us/en/men/heattech)
 
 Uniqlo is cheap and astoundingly comfortable. The heattech undershirts are great for winter and the airism for summer. They're durable taking months of washing without losing any comfort or stretch. Same goes for the socks and long sleeve shirts.
 
 The only problem I've had with Uniqlo is that they have so many versions of the shirts that are branded slightly differently and once in a while I'll get something that's not quite as comfy by accident. But it's cheap so no big deal.
 
-Their most expensive socks are about on-par with the nice bambas socks. Honestly a toss up in my mind between those two for winter socks. For summer socks I go with cheap [amazon ones](https://www.amazon.com/gp/product/B01MY76HHT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) I don't mind throwing out more frequently.
+If you are really picky about undershirts, the best I've ever owned is the [Lulu Lemon T-shirts](https://shop.lululemon.com/c/mens-t-shirts/). The lack of branding is appreciated and the seams and fit are quality + stretch.
+
+~~Their most expensive socks are about on-par with the nice bambas socks. Honestly a toss up in my mind between those two for winter socks. For summer socks I go with cheap [amazon ones](https://www.amazon.com/gp/product/B01MY76HHT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) I don't mind throwing out more frequently.~~
+
+UPDATE: [The Awesome Socks Club](https://awesomesocks.club/) has introduced
+ankle high! This is now my go-to for socks. They are still not as durable as I
+would prefer but the subscription that I can feel good about is worth it for me.
 
 ### Relaxed Pants
 

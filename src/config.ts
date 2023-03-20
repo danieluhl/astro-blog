@@ -5,7 +5,7 @@ export const SITE = {
   author: "Daniel Uhl",
   desc: "All things coding, philosophy, and lifestyle",
   title: "luculent lollygag",
-  ogImage: "reyan-couch-hair.png",
+  ogImage: "typing-turtle.jpeg",
   lightAndDarkMode: true,
   postPerPage: 50,
 };
