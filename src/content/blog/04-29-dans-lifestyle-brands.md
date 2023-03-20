@@ -23,6 +23,8 @@ This is an ongoing list of things I actively use and enjoy. Many of these have c
   - Upgrade: [Lulu Lemon T-shirts](https://shop.lululemon.com/c/mens-t-shirts/)
 - [Vuori Sunday Performance Jogger](https://vuoriclothing.com/products/sunday-performance-jogger-black)
 - [Vuori Ponto Performance half zip hoodie](https://vuoriclothing.com/products/ponto-performance-half-zip-hoodie-platinum-heather
+- [Parle Moi](https://parlemoideparfum.com/en/)
+  - Home: [Lake & Skye](https://www.lakeandskye.com/products/11-11-eau-de-parfum)
 
 ### Coffee
 
@@ -135,3 +137,20 @@ To find an american whiskey I'll enjoy I look for 46% or higher ABV, malt over g
 ### [Fleece Sheets](https://www.amazon.com/gp/product/B074PZ6GCB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 There's nothing better than fresh fleece sheets in the winter!
+
+### Smells!
+
+I'm on the spectrum of super-smellers. Smell is tied so strongly to memory and I
+often delight or disgust in the sillages many others fail to notice. Normally this is an augment to life but when it comes to picking a cologn or perfume for the wife, I'm VERY particular.
+
+This gonna sound... not typical for me, but it's true: my wife and I were in
+Milan for fashion week. I had a side-quest to hunt down the parent company that
+makes the store smell for Moncler (one of my all time favorite smells).
+Unfortunately they refused to give up the goods. But while wandering the streets
+we were pulled into a random perfumery. I instantly fell in love with Papyrus
+Oud. It captured the essence of growing up camping in the forests of Montana.
+Later I discovered my current favorite smell of all time: Milky Musk.
+
+- [Parle Moi](https://parlemoideparfum.com/en/)
+- Honorable Mention [Lake & Skye](https://www.lakeandskye.com/products/11-11-eau-de-parfum)
+- Home: [Teatro](https://teatrofragranzeuniche.it/en/63-tobacco-1815)
