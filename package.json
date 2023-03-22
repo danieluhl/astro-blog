@@ -22,8 +22,10 @@
     "github-slugger": "^2.0.0",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^8.0.1",
+    "remark-validate-links": "^12.1.0",
     "satori": "^0.2.3",
     "tailwindcss": "^3.2.4",
+    "unified": "^10.1.2",
     "unist-util-visit": "^4.1.2"
   },
   "devDependencies": {

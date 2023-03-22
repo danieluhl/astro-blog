@@ -13,19 +13,19 @@ positive and negative.
 
 Incremental progress with [deliberate practice](04-21-nine-guidelines-for-deliberate-practice)
 
+- Weeding the garden and fixing things around the house
+- Code debt, refactoring abstractions
 - Exercise
 - Not drinking
 - Tool sharpening
 - Reading
 - Projects
+- Cleaning dog poo
 
-## Negative
+## Negative (unless your job/hobby)
 
-- Code debt, refactoring abstractions
-- Dog poo
 - Time on media
 - Time gaming
-- Weeding the garden and fixing things around the house
 
 Best to make persistent, validated, incremental steps with emperical results,
 both in the maintenance of future negatives, and the pursuit of cumulative

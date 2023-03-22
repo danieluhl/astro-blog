@@ -1,4 +1,5 @@
 import { visit } from "unist-util-visit";
+// import { getValidLinkList } from "./linkGenerator";
 const linkRegex = /(\.\.\/\d\d\d\d\/)?\d\d-\d\d-(.*?)(\.md)?$/gi;
 
 const replacerFn = (match, p1, p2) => {

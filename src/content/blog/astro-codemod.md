@@ -13,7 +13,7 @@ reusable components.
 My old Next.js blog had links like this:
 
 ```markdown
-[Friday Nights](../2022/09-08-friday-nights.md)
+[Friday Nights](friday-nights)
 ```
 
 In the astro template I'm using here it needs to be the slug:

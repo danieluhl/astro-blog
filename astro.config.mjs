@@ -6,6 +6,7 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 // import linkFixerIntegration from "./scripts/linkFixerIntegration.mjs";
 import { remarkLinkFixer } from "./scripts/remarkLinkFixer.mjs";
+import remarkValidateLinks from "remark-validate-links";
 
 // https://astro.build/config
 export default defineConfig({
@@ -22,9 +23,10 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
-      remarkLinkFixer,
+      // remarkLinkFixer,
       remarkToc,
       [remarkCollapse, { test: "Table of Contents" }],
+      [remarkValidateLinks, { root: "src/content/blog" }],
     ],
     shikiConfig: {
       theme: "one-dark-pro",
