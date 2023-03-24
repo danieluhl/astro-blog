@@ -1,5 +1,5 @@
 import { visit } from "unist-util-visit";
-// import { getValidLinkList } from "./linkGenerator";
+import { getAllPossibleSlugs } from "../linkGenerator.js"
 const linkRegex = /(\.\.\/\d\d\d\d\/)?\d\d-\d\d-(.*?)(\.md)?$/gi;
 
 const replacerFn = (match, p1, p2) => {
@@ -8,19 +8,16 @@ const replacerFn = (match, p1, p2) => {
 };
 
 export function remarkLinkFixer() {
+  const allSlugs = getAllPossibleSlugs();
   function transformer(tree) {
     visit(tree, "link", function(node) {
       node.url = node.url.replace(linkRegex, replacerFn);
+      if (!node.url.includes('chrome://') &&
+        !node.url.includes('http') &&
+        !allSlugs.has(node.url)) {
+        throw new Error(`Invalid url found: ${node.url}`);
+      }
     });
-    // visit(tree, "text", function(node) {
-    // console.log("**************************");
-    // console.log(node.type);
-    // console.log(node.value);
-    // let wordCount = node.value.split(" ").length;
-    // if (wordCount >= 4) {
-    //   node.value = node.value.replace(/ ([^ ]*)$/, "\u00A0$1");
-    // }
-    // });
   }
 
   return transformer;

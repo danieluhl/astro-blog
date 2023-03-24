@@ -12,7 +12,7 @@ about NOT eating meat. Focus is mostly about how well you can avoid the 2nd
 priority item.
 
 It can help to pause for a moment to dwell on the reality of your situation. You
-have capacity to [do one thing](single-tasking-in-a-multi-tasking-worldd). This
+have capacity to [do one thing](single-tasking-in-a-multi-tasking-world). This
 means if you're working on a project for work, you're not spending time with
 your family, or fixing up your house, or taking care of your pets, or reading
 that book you've been wanting to get to, or exercising, etc. All of these things

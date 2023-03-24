@@ -4,7 +4,7 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
-import { remarkLinkFixer } from "./scripts/remarkPlugins/remarkLinkFixer.mjs";
+import { remarkLinkFixer } from "./scripts/remarkPlugins/remarkLinkFixer.js";
 import remarkValidateLinks from "remark-validate-links";
 
 // https://astro.build/config
