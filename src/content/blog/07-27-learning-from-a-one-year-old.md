@@ -6,7 +6,7 @@ description: Learning From a one Year old
 
 Having a kid has taught me a lot. I find myself putting myself back in kids shoes where everything is possible but little is known and so everything is to be discovered.
 
-My one year old has just begun to feel all the feelings and he's extremely adept at expressing those feelings. By this I mean he'll quickly throw himself on the floor in a fit of sadness and anger. If only we all had such inhibition of expressiveness for [primary emotions](/04-29-secondary-emotions-in-software)!
+My one year old has just begun to feel all the feelings and he's extremely adept at expressing those feelings. By this I mean he'll quickly throw himself on the floor in a fit of sadness and anger. If only we all had such inhibition of expressiveness for [primary emotions](secondary-emotions-in-software)!
 
 ## Give Options
 

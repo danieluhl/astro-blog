@@ -25,7 +25,7 @@ I've been coding for over 15 years and still going strong.
 ## Gear
 
 I'm a VIM user. See my full computer setup in my [annual routines review
-post](posts/annual-routines-review).
+post](annual-routines-review).
 
 ## Podcast (Luculent Lollygag)
 

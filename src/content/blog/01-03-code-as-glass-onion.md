@@ -4,7 +4,8 @@ pubDatetime: 2023-01-03T12:13:24.000Z
 description: Glass Onion Codebase
 ---
 
-> "I like the glass onion, as a metaphor. An object that seems densely layered, but in reality, the centre is in plain sight."
+> "I like the glass onion, as a metaphor. An object that seems densely layered,
+> but in reality, the centre is in plain sight."
 
 - Benoit Blanc, The Glass Onion 2022
 
