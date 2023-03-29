@@ -3,8 +3,7 @@ title: Zod Date in VIM
 author: Daniel Uhl
 pubDatetime: 2023-03-21T10:15:40-04:00
 tags:
-  - vim
-  - bash
+  - programming
 description: How I made a VIM binding that inserts a zod valid date
 ---
 

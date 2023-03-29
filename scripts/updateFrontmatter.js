@@ -8,11 +8,11 @@ const argv = require("minimist")(process.argv.slice(2));
 function updateFrontmatter(path, writeFn) {
   const fileContents = fs.readFileSync(path);
   const fileMatter = grayMatter(String(fileContents));
-  const data = grayMatter.stringify(fileMatter.content, {
+  const newFileContents = grayMatter.stringify(fileMatter.content, {
     ...writeFn(fileMatter.data),
   });
   console.log(`updating ${path}`);
-  fs.writeFile(path, data, err => {
+  fs.writeFile(path, newFileContents, err => {
     if (err) {
       throw new Error(err);
     }

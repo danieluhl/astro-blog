@@ -5,12 +5,6 @@ pubDatetime: 2022-06-09T03:42:51.000Z
 postSlug: how-do-i-develop-my-terminal-portfolio-website-with-react
 featured: false
 draft: false
-tags:
-  - JavaScript
-  - ReactJS
-  - ContextAPI
-  - Styled-Components
-  - TypeScript
 description: How Do I Develop My Terminal Portfolio Website with React
 ---
 

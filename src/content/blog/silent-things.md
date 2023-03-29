@@ -3,9 +3,7 @@ title: Silent Things
 author: Daniel Uhl
 pubDatetime: 2023-03-21T10:05:48-04:00
 tags:
-  - mindfulness
   - philosophy
-  - life-advice
 description: How the things in our environment relate to our mind
 ---
 

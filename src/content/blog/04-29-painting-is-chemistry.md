@@ -2,7 +2,7 @@
 title: Painting Is Chemistry
 pubDatetime: 2021-04-29T12:13:24.000Z
 tags:
-  - awareness
+  - philosophy
 description: Painting Is Chemistry
 ---
 

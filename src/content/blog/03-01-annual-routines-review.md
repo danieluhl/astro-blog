@@ -3,8 +3,7 @@ title: Annual Routines Review
 pubDatetime: 2023-03-01T12:13:24.000Z
 tags:
   - upkeep
-  - habits
-  - gear
+  - productivity
 description: keeping what I do and what I use to get it done
 ---
 

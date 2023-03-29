@@ -5,8 +5,6 @@ title: Predefined color schemes
 postSlug: predefined-color-schemes
 featured: false
 draft: false
-tags:
-  - color-schemes
 ogImage: ""
 description: Predefined color schemes
 ---

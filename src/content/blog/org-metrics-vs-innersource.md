@@ -4,8 +4,8 @@ author: Daniel Uhl
 pubDatetime: 2023-03-29T07:23:16-04:00
 featured: false
 tags:
-  - teams
   - management
+  - programming
 description: looking at a study about code quality and org structure
 ---
 

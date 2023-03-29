@@ -2,7 +2,7 @@
 title: Optimal Learning Path
 pubDatetime: 2021-04-29T12:13:24.000Z
 tags:
-  - emotion
+  - productivity
 description: Optimal Learning Path
 ---
 

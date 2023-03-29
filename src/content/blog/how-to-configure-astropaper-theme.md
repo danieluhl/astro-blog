@@ -5,9 +5,6 @@ title: How to configure AstroPaper theme
 postSlug: how-to-configure-astropaper-theme
 featured: false
 draft: false
-tags:
-  - configuration
-  - docs
 ogImage: ""
 description: How to configure AstroPaper theme
 ---

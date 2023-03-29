@@ -5,8 +5,6 @@ title: Adding new posts in AstroPaper theme
 postSlug: adding-new-posts-in-astropaper-theme
 featured: false
 draft: false
-tags:
-  - docs
 ogImage: ""
 description: Adding new posts in AstroPaper theme
 ---

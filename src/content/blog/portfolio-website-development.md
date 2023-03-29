@@ -5,11 +5,6 @@ pubDatetime: 2022-03-25T16:55:12.000Z
 postSlug: how-do-i-develop-my-portfolio-and-blog
 featured: false
 draft: false
-tags:
-  - NextJS
-  - TailwindCSS
-  - HeadlessCMS
-  - Blog
 ogImage: ""
 description: How Do I Develop My Portfolio Website & Blog
 ---

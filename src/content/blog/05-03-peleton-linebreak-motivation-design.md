@@ -2,8 +2,7 @@
 title: Peleton Linebreak Motivation Design
 pubDatetime: 2022-05-03T12:13:24.000Z
 tags:
-  - motivation
-  - design
+  - joy
 description: Peleton Linebreak Motivation Design
 ---
 

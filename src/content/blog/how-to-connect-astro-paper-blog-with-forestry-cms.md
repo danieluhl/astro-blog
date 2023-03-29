@@ -5,10 +5,6 @@ pubDatetime: 2022-09-21T05:17:19.000Z
 postSlug: how-to-connect-astro-paper-blog-with-forestry-cms
 featured: false
 draft: false
-tags:
-  - docs
-  - forestry-cms
-  - astro-paper
 ogImage: >-
   https://res.cloudinary.com/noezectz/v1663745737/astro-paper/astropaper-x-forestry-og_kqfwp0.png
 description: How to connect AstroPaper blog with Forestry CMS

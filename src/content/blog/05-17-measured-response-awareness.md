@@ -2,8 +2,7 @@
 title: Measured Response Awareness
 pubDatetime: 2021-05-17T12:13:24.000Z
 tags:
-  - emotion
-  - awareness
+  - philosophy
 description: Measured Response Awareness
 ---
 

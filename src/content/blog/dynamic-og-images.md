@@ -5,9 +5,6 @@ title: Dynamic OG image generation in AstroPaper blog posts
 postSlug: dynamic-og-image-generation-in-astropaper-blog-posts
 featured: false
 draft: false
-tags:
-  - docs
-  - release
 ogImage: ""
 description: Dynamic OG image generation in AstroPaper blog posts
 ---
