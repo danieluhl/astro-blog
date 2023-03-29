@@ -2,6 +2,8 @@
 title: How to Podcast
 pubDatetime: 2022-05-18T12:13:24.000Z
 description: How to Podcast
+tags:
+  - programming
 ---
 
 1. Record on [Zencastr](https://zencastr.com/)

@@ -2,6 +2,8 @@
 title: Illusion Of The Perfect Buddha
 pubDatetime: 2021-05-20T12:13:24.000Z
 description: Illusion Of The Perfect Buddha
+tags:
+  - philosophy
 ---
 
 When I was on silent meditation retreat for the first time I went from 10

@@ -2,6 +2,8 @@
 title: Change Momentum
 pubDatetime: 2022-05-19T12:13:24.000Z
 description: Change Momentum
+tags:
+  - productivity
 ---
 
 It's difficult to start a pattern of constant change. [Changing

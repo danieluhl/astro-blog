@@ -2,6 +2,8 @@
 title: You are Pair Programming
 pubDatetime: 2022-05-04T12:13:24.000Z
 description: You are Pair Programming
+tags:
+  - programming
 ---
 
 Just like you _are_ testing so you might as well automate it before writing code,

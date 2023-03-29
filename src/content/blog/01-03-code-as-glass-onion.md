@@ -2,6 +2,8 @@
 title: Glass Onion Codebase
 pubDatetime: 2023-01-03T12:13:24.000Z
 description: Glass Onion Codebase
+tags:
+  - programming
 ---
 
 > "I like the glass onion, as a metaphor. An object that seems densely layered,

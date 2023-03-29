@@ -2,6 +2,8 @@
 title: Take one Thing Well
 pubDatetime: 2022-04-18T12:13:24.000Z
 description: Take one Thing Well
+tags:
+  - productivity
 ---
 
 For each person you interact with frequently, look for the one great

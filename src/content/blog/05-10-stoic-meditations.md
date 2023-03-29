@@ -2,6 +2,8 @@
 title: Stoic Meditations
 pubDatetime: 2022-05-10T12:13:24.000Z
 description: Stoic Meditations
+tags:
+  - philosophy
 ---
 
 The goal is to train the mind to naturally want the things we already have. Each

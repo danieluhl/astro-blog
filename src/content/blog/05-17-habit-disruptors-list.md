@@ -2,6 +2,8 @@
 title: Habit Disruptors List
 pubDatetime: 2021-05-17T12:13:24.000Z
 description: Habit Disruptors List
+tags:
+  - productivity
 ---
 
 ## 17 May 2021

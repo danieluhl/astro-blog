@@ -2,6 +2,8 @@
 title: Cross the Solid Yellow Lines
 pubDatetime: 2021-09-13T12:13:24.000Z
 description: Cross the Solid Yellow Lines
+tags:
+  - philosophy
 ---
 
 "When driving on a two-way highway you can't cross the solid yellow line". This is what we learn when starting to drive. My literal mind said, "oh yeah?!" and crossed the line quite easily, as a car is much bigger and capable than that small yellow line.

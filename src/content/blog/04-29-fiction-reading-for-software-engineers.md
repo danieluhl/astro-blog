@@ -2,6 +2,8 @@
 title: Fiction Reading For Software Engineers
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Fiction Reading For Software Engineers
+tags:
+  - programming
 ---
 
 # Fiction Reading For Software Engineers

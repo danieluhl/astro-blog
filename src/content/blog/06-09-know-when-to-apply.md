@@ -2,6 +2,8 @@
 title: Know When to Apply
 pubDatetime: 2021-06-09T12:13:24.000Z
 description: Know When to Apply
+tags:
+  - philosophy
 ---
 
 A quite peculiar behavior begins to emerge among professionals with significant

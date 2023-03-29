@@ -2,6 +2,8 @@
 title: Learning From Shoveling The Yard
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Learning From Shoveling The Yard
+tags:
+  - philosophy
 ---
 
 # Shoveling Sucks

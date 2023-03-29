@@ -2,6 +2,8 @@
 title: Putting the Dishes Away
 pubDatetime: 2022-02-14T12:13:24.000Z
 description: Putting the Dishes Away
+tags:
+  - productivity
 ---
 
 1. Remove blockers, prove viability

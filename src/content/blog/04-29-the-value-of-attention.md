@@ -2,6 +2,8 @@
 title: The Value Of Attention
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: The Value Of Attention
+tags:
+  - philosophy
 ---
 
 # You Won the Lottery!

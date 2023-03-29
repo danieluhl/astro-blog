@@ -2,6 +2,8 @@
 title: Six Problems Someone Should Work on
 pubDatetime: 2021-09-29T12:13:24.000Z
 description: Six Problems Someone Should Work on
+tags:
+  - philosophy
 ---
 
 1. Global warming

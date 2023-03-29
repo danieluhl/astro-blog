@@ -2,6 +2,8 @@
 title: Macro-apm-strategy
 pubDatetime: 2023-01-11T12:13:24.000Z
 description: Macro-apm-strategy
+tags:
+  - productivity
 ---
 
 APM in gaming is actions per minute. Pro gamers will use hand warmers, drink

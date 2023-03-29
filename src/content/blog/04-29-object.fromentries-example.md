@@ -2,6 +2,8 @@
 title: Object.fromEntries Example
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Object.fromEntries Example
+tags:
+  - programming
 ---
 
 # Object.fromEntries Example

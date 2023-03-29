@@ -2,6 +2,8 @@
 title: Leaders Focus on Outputs
 pubDatetime: 2022-05-12T12:13:24.000Z
 description: Leaders Focus on Outputs
+tags:
+  - productivity
 ---
 
 Inputs are not bad, but focusing on them by spending time and frequently talking

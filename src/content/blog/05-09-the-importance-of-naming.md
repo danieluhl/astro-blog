@@ -2,6 +2,8 @@
 title: The Importance of Naming
 pubDatetime: 2022-05-09T12:13:24.000Z
 description: The Importance of Naming
+tags:
+  - programming
 ---
 
 In what sense does Harry Potter exist? The fictional character is so well named

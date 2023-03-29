@@ -2,6 +2,8 @@
 title: What are Thoughts
 pubDatetime: 2021-09-09T12:13:24.000Z
 description: What are Thoughts
+tags:
+  - philosophy
 ---
 
 Through [sustained metacognition](09-09-sustained-metacognition) we can dig deeply into what thoughts are.

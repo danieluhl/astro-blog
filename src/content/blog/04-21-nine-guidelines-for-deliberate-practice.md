@@ -2,6 +2,8 @@
 title: Nine Guidelines for Deliberate Practice
 pubDatetime: 2022-04-21T12:13:24.000Z
 description: Nine Guidelines for Deliberate Practice
+tags:
+  - productivity
 ---
 
 1. Get an overview of what you're trying to learn

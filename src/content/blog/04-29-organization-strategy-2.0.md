@@ -2,6 +2,8 @@
 title: Organization Strategy 2.0
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Organization Strategy 2.0
+tags:
+  - productivity
 ---
 
 # Organization Strategy 2.0

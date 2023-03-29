@@ -2,6 +2,8 @@
 title: Who Cares
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Who Cares
+tags:
+  - productivity
 ---
 
 # Who Cares?

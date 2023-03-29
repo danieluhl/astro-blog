@@ -2,6 +2,8 @@
 title: Work Time Vs Home
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Work Time Vs Home
+tags:
+  - productivity
 ---
 
 # Work Time Vs Home

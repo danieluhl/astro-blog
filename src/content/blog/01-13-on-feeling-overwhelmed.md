@@ -2,6 +2,8 @@
 title: On Feeling Overwhelmed
 pubDatetime: 2022-01-13T12:13:24.000Z
 description: On Feeling Overwhelmed
+tags:
+  - philosophy
 ---
 
 Sometimes when I get into a good mindfulness session, I start to feel overwhelmed. I hear my heart beating, the movement and sounds of the breath, tingling from my hands, stress pulls at my chest and gut, thoughts and sounds jump into my awareness, it's a cacophony.

@@ -2,6 +2,8 @@
 title: What Makes a Senior Engineer
 pubDatetime: 2021-09-09T12:13:24.000Z
 description: What Makes a Senior Engineer
+tags:
+  - programming
 ---
 
 "Senior" really means only one thing: ability to help and grow the people around

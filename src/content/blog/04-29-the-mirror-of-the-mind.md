@@ -2,6 +2,8 @@
 title: The Mirror Of The Mind
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: The Mirror Of The Mind
+tags:
+  - philosophy
 ---
 
 # The Mirror Of The Mind

@@ -2,6 +2,9 @@
 title: Can Work be Fun
 pubDatetime: 2021-06-02T12:13:24.000Z
 description: Can Work be Fun
+tags:
+  - philosophy
+  - programming
 ---
 
 We tend to think that we're getting paid to do something that others either

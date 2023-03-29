@@ -2,6 +2,8 @@
 title: About Habit Disruptors
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: About Habit Disruptors
+tags:
+  - philosophy
 ---
 
 There are a ton of materials on forming habits (trigger, routine, reward) but

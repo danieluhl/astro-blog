@@ -2,6 +2,8 @@
 title: Sustained Metacognition
 pubDatetime: 2021-09-09T12:13:24.000Z
 description: Sustained Metacognition
+tags:
+  - philosophy
 ---
 
 Metacognition is simply thinking about your own thinking.

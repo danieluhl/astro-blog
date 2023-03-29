@@ -7,7 +7,6 @@ const VALID_TAGS = new Set([
   "programming",
   "upkeep",
   "joy",
-  "other",
 ]);
 
 export const blogSchema = z
@@ -18,18 +17,15 @@ export const blogSchema = z
     postSlug: z.string().optional(),
     featured: z.boolean().optional(),
     draft: z.boolean().optional(),
-    tags: z
-      .array(z.string())
-      .default(["other"])
-      .refine(
-        arr => {
-          return arr.every(str => VALID_TAGS.has(str));
-        },
-        arr => {
-          const invalid = arr.filter(str => !VALID_TAGS.has(str));
-          return { message: `Invalid tags: ${invalid}` };
-        }
-      ),
+    tags: z.array(z.string()).refine(
+      arr => {
+        return arr.every(str => VALID_TAGS.has(str));
+      },
+      arr => {
+        const invalid = arr.filter(str => !VALID_TAGS.has(str));
+        return { message: `Invalid tags: ${invalid}` };
+      }
+    ),
     ogImage: z.string().optional(),
     description: z.string(),
   })

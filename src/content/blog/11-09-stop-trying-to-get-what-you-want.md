@@ -2,6 +2,8 @@
 title: Stop Trying to get What you Want
 pubDatetime: 2021-11-09T12:13:24.000Z
 description: Stop Trying to get What you Want
+tags:
+  - philosophy
 ---
 
 Sometimes the best way to get something is not to drive after it in a "try-hard" mode, but rather to cultivate the best conditions by which that thing is most likely to happen naturally.

@@ -2,6 +2,8 @@
 title: DoD Equals TDD
 pubDatetime: 2022-05-06T12:13:24.000Z
 description: DoD Equals TDD
+tags:
+  - programming
 ---
 
 Start documents with the definition of done. What needs to be included in this

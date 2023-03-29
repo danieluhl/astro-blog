@@ -2,6 +2,8 @@
 title: Ownership and Okrs
 pubDatetime: 2021-11-29T12:13:24.000Z
 description: Ownership and Okrs
+tags:
+  - productivity
 ---
 
 A PM recently showed a graph that looks roughly like this:

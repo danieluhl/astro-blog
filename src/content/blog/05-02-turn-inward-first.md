@@ -2,6 +2,8 @@
 title: Turn Inward First
 pubDatetime: 2022-05-02T12:13:24.000Z
 description: Turn Inward First
+tags:
+  - philosophy
 ---
 
 We often read something inspiring like "Atomic Habits" or "4000 Weeks" and think

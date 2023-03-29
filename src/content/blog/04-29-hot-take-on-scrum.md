@@ -2,6 +2,8 @@
 title: Hot Take On Scrum
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Hot Take On Scrum
+tags:
+  - productivity
 ---
 
 # Aptitude and Attitude

@@ -2,6 +2,9 @@
 title: Learning Vs Growing
 pubDatetime: 2021-04-30T12:13:24.000Z
 description: Learning Vs Growing
+tags:
+  - productivity
+  - philosophy
 ---
 
 # Learning Vs Growing

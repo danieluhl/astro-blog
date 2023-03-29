@@ -2,6 +2,8 @@
 title: Make Time Tactics List
 pubDatetime: 2022-01-13T12:13:24.000Z
 description: Make Time Tactics List
+tags:
+  - productivity
 ---
 
 A good quote that sums up my position on the book [Make Time](https://maketime.blog/):

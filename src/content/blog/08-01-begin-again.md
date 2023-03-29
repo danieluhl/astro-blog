@@ -2,6 +2,8 @@
 title: Begin Again
 pubDatetime: 2022-08-01T12:13:24.000Z
 description: Begin Again
+tags:
+  - philosophy
 ---
 
 In meditation, when you catch your mind wandering, this is the moment of clarity

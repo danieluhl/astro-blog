@@ -2,6 +2,8 @@
 title: Comfort Zone is Danger
 pubDatetime: 2022-05-11T12:13:24.000Z
 description: Comfort Zone is Danger
+tags:
+  - productivity
 ---
 
 Growing up in Montana skiing every week during the winter we often heard advice

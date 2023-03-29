@@ -2,6 +2,8 @@
 title: New Years Resolutions
 pubDatetime: 2022-01-03T12:13:24.000Z
 description: New Years Resolutions
+tags:
+  - philosophy
 ---
 
 It's probably no surprise to anyone reading this that I think new years resolutions are crap. Why resolve at this arbitrary point in time? Look at the data about how many resolutions are really helpful.

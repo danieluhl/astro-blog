@@ -2,6 +2,8 @@
 title: Distraction vs Interruption
 pubDatetime: 2022-01-04T12:13:24.000Z
 description: Distraction vs Interruption
+tags:
+  - productivity
 ---
 
 Distraction is when you're doing something that's not the most important thing to be doing. It is evil and should be avoided at all costs.

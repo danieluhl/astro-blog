@@ -2,6 +2,8 @@
 title: Working as Humans
 pubDatetime: 2021-09-09T12:13:24.000Z
 description: Working as Humans
+tags:
+  - productivity
 ---
 
 In the U.S. we're run by capitalism. Business exist for profit and all initiatives tie back to that purpose.

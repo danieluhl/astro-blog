@@ -2,6 +2,8 @@
 title: Heroes vs Hero Culture
 pubDatetime: 2022-05-16T12:13:24.000Z
 description: Heroes vs Hero Culture
+tags:
+  - productivity
 ---
 
 Having heroes around who work the extra hours, are passionate and drive, and

@@ -2,6 +2,8 @@
 title: What Is Software Engineering
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: What Is Software Engineering
+tags:
+  - programming
 ---
 
 # What Is Software Engineering

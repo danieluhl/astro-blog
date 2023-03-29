@@ -2,6 +2,8 @@
 title: Nonsense in Meditation
 pubDatetime: 2021-09-09T12:13:24.000Z
 description: Nonsense in Meditation
+tags:
+  - philosophy
 ---
 
 There is a TON of nonsense, pseudoscience, and people trying to take your money

@@ -2,6 +2,8 @@
 title: Command and Control
 pubDatetime: 2022-04-29T12:13:24.000Z
 description: Command and Control
+tags:
+  - programming
 ---
 
 Not always is leadership demanding something of you, your team, or your org,

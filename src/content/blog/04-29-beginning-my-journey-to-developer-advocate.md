@@ -2,6 +2,8 @@
 title: Beginning My Journey To Developer Advocate
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Beginning My Journey To Developer Advocate
+tags:
+  - programming
 ---
 
 # What is my job?

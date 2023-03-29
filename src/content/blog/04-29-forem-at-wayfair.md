@@ -2,6 +2,8 @@
 title: Forem At Wayfair
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Forem At Wayfair
+tags:
+  - programming
 ---
 
 # Forem at Wayfair

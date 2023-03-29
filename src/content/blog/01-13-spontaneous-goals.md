@@ -2,6 +2,8 @@
 title: Spontaneous Goals
 pubDatetime: 2022-01-13T12:13:24.000Z
 description: Spontaneous Goals
+tags:
+  - philosophy
 ---
 
 The title here is a contradiction. Spontaneity is a great word for all those things you so dearly desire, but the more you try to get them, the further they fall out of reach.

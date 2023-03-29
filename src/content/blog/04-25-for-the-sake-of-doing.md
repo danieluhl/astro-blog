@@ -2,6 +2,8 @@
 title: For the Sake of Doing
 pubDatetime: 2022-04-25T12:13:24.000Z
 description: For the Sake of Doing
+tags:
+  - philosophy
 ---
 
 There's a dangerous cliff in Scotland where travelers will walk down a cliff

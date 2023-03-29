@@ -2,6 +2,8 @@
 title: The art and Science of Coding
 pubDatetime: 2022-05-05T12:13:24.000Z
 description: The art and Science of Coding
+tags:
+  - programming
 ---
 
 Coding will always have some art. But with automated code generation like Github

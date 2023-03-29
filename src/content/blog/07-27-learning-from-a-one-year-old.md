@@ -2,6 +2,8 @@
 title: Learning From a one Year old
 pubDatetime: 2021-07-27T12:13:24.000Z
 description: Learning From a one Year old
+tags:
+  - programming
 ---
 
 Having a kid has taught me a lot. I find myself putting myself back in kids shoes where everything is possible but little is known and so everything is to be discovered.

@@ -2,6 +2,8 @@
 title: Why Is This Working
 pubDatetime: 2021-06-02T12:13:24.000Z
 description: Why Is This Working
+tags:
+  - philosophy
 ---
 
 It's so much worse when something is working and you don't know why. If there's

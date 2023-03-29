@@ -2,6 +2,8 @@
 title: Five Phases Of Bringing Ideas To Life
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Five Phases Of Bringing Ideas To Life
+tags:
+  - philosophy
 ---
 
 # Five Phases of Bringing Ideas to Life

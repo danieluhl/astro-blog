@@ -2,6 +2,8 @@
 title: Optimal Learning
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Optimal Learning
+tags:
+  - productivity
 ---
 
 Source talk: [Allison Kaptur Effective Learning for Programmers](https://youtu.be/Mcc6JEhDSpo)

@@ -2,6 +2,8 @@
 title: No Best Practices
 pubDatetime: 2022-05-25T12:13:24.000Z
 description: No Best Practices
+tags:
+  - programming
 ---
 
 If there was a "best practice" it would be obvious and everyone would be doing

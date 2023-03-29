@@ -2,6 +2,8 @@
 title: My First Chrome Plugin
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: My First Chrome Plugin
+tags:
+  - programming
 ---
 
 # My First Chrome Plugin

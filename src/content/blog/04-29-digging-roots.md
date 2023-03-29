@@ -2,6 +2,8 @@
 title: Digging Roots
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Digging Roots
+tags:
+  - philosophy
 ---
 
 # Digging Roots

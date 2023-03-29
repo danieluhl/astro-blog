@@ -2,6 +2,8 @@
 title: Enjoy Complementary Interests
 pubDatetime: 2021-06-29T12:13:24.000Z
 description: Enjoy Complementary Interests
+tags:
+  - philosophy
 ---
 
 I used to get major FOMO (fear of missing out) when I heard about activity that

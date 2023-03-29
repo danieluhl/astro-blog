@@ -2,6 +2,8 @@
 title: Secondary Emotions In Software
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Secondary Emotions In Software
+tags:
+  - philosophy
 ---
 
 # What are secondary emotions?

@@ -2,6 +2,8 @@
 title: How to Grow a Career
 pubDatetime: 2021-05-26T12:13:24.000Z
 description: How to Grow a Career
+tags:
+  - programming
 ---
 
 To grow a mustache, you first grow a beard, then you shave everything but the

@@ -2,6 +2,8 @@
 title: Motivation vs Discipline
 pubDatetime: 2022-05-10T12:13:24.000Z
 description: Motivation vs Discipline
+tags:
+  - productivity
 ---
 
 Motivation is doing something because there's nothing else you'd rather be

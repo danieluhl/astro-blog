@@ -2,6 +2,8 @@
 title: Drama vs Comedy
 pubDatetime: 2022-01-13T12:13:24.000Z
 description: Drama vs Comedy
+tags:
+  - philosophy
 ---
 
 The difference between a magician vs a psychic or charlatan is that the magician is honest. Likewise, a good comedian sets the stage in a way that everyone agrees they're doing jokes - everyone is in on it. If someone thinks they're not doing comedy, but they're getting big laughs, that's not comedy, that's drama, tragedy even.

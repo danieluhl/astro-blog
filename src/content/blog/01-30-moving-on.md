@@ -2,6 +2,8 @@
 title: Moving-on
 pubDatetime: 2023-01-30T12:13:24.000Z
 description: Moving-on
+tags:
+  - philosophy
 ---
 
 After nine long years at one company I've been laid off in the great tech

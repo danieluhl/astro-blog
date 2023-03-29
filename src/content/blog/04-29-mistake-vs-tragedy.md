@@ -2,6 +2,8 @@
 title: Mistake Vs Tragedy
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Mistake Vs Tragedy
+tags:
+  - philosophy
 ---
 
 # Mistake Vs Tragedy

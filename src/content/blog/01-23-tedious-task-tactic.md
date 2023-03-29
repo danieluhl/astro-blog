@@ -2,6 +2,8 @@
 title: Tedious Task Tactic
 pubDatetime: 2022-01-23T12:13:24.000Z
 description: Tedious Task Tactic
+tags:
+  - productivity
 ---
 
 The general form is to separate a tedious task into two tasks (preparation::execution) that when approached in different mindsets or contexts can both be enjoyable (not tedious).

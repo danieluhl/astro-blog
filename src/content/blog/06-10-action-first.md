@@ -2,6 +2,8 @@
 title: Action First
 pubDatetime: 2021-06-10T12:13:24.000Z
 description: Action First
+tags:
+  - productivity
 ---
 
 I want to be more like a person on my team, let's call them Jill.

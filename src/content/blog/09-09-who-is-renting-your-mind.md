@@ -2,6 +2,8 @@
 title: Who is Renting Your Mind
 pubDatetime: 2021-09-09T12:13:24.000Z
 description: Who is Renting Your Mind
+tags:
+  - philosophy
 ---
 
 Ignoring clinical diagnoses like multiple personality disorder, it can be helpful to think of one human mind as multiple conscious entities all renting the same apartment: your brain.

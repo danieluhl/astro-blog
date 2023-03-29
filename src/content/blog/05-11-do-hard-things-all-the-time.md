@@ -2,6 +2,8 @@
 title: Do Hard Things all the Time
 pubDatetime: 2022-05-11T12:13:24.000Z
 description: Do Hard Things all the Time
+tags:
+  - productivity
 ---
 
 If something is difficult, often it's best to do it ALL the time. It's easier

@@ -2,6 +2,8 @@
 title: "Cant Stop, Wont Stop"
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: "Cant Stop, Wont Stop"
+tags:
+  - philosophy
 ---
 
 # Friday Nights

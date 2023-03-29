@@ -2,6 +2,8 @@
 title: Ulysses Pact
 pubDatetime: 2022-03-14T12:13:24.000Z
 description: Ulysses Pact
+tags:
+  - philosophy
 ---
 
 I think a lot about the Ulysses pact. The idea that in this moment you have

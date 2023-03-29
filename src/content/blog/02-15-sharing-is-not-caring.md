@@ -2,6 +2,8 @@
 title: Sharing is not Caring
 pubDatetime: 2022-02-15T12:13:24.000Z
 description: Sharing is not Caring
+tags:
+  - productivity
 ---
 
 It's easier to share/broadcast information than to make real progress learning

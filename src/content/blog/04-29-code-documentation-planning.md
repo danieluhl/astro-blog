@@ -2,6 +2,8 @@
 title: Code Documentation Planning
 pubDatetime: 2021-04-29T12:13:24.000Z
 description: Code Documentation Planning
+tags:
+  - programming
 ---
 
 # Code Documentation Planning
