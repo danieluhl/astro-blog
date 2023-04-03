@@ -1,7 +1,7 @@
 ---
-title: Depth First Learning
+title: Breadth First Learning
 pubDatetime: 2023-03-29T17:00:09.032Z
-description: Depth First Learning
+description: Learning by accepting some ambiguity on the first pass to gain larger context
 tags:
   - philosophy
   - productivity

@@ -6,23 +6,23 @@ tags:
   - productivity
 ---
 
-# Adding Good Process
+## Adding Good Process
 
 Development teams typically hate process and rightfully so. In the moment process is objectively bad and a lot of process is put in place for the wrong reasons.
 
-# What is Good Process
+## What is Good Process
 
 Good process is put in place for one of two reasons: it speeds up development overall, or it eliminates team issues. Think of it like driving a car. With no infrastructure it's a ton of fun driving around an off-road equipped jeep or dirt bike. But if we want to go far, fast, or with many many people, we need process. Roads help us go fast and guardrails help eliminate and entire class of issues.
 
 Another analogy that might resonate well with engineers is immutable data structures. They are objectively less powerful and more restrictive than mutable data. In the moment they are more verbose and difficult to use. They take more memory and computing power to handle. However, they eliminate an entire class of issues. It's taken years for engineering communities to step back and see this larger picture but we got there.
 
-# Examples of Good Process
+## Examples of Good Process
 
 One example of possibly speeding up and scaling work is agile methodologies. Fundamentally understanding where the team and company are headed and how we're planning to get there is like paving a path to drive down. The ability to easily create work, get it prioritized, and work on the top priority thing brings a team together and streamlines efforts.
 
 Processes like project proposal, RFCs, architecture reviews, and testing norms are your guard rails. These prevent an entire class of "team bugs" like bus factor, hero culture, and code debt over time.
 
-# Examples of Bad Process
+## Examples of Bad Process
 
 Put simply, any process that doesn't fall into the "good" bucket above, is bad. Bad process realizes the localized pain without providing sufficient macro benefits.
 
@@ -38,7 +38,7 @@ One more analogy, if you're transporting a manufactured house, you shouldn't be 
 
 Fit the process to what your team needs now, not in the future or in the past.
 
-# Eliminating Bad Process
+## Eliminating Bad Process
 
 The key to keeping good process and eliminating bad process is embracing continuous change and experimentation with curiosity in mind. Retrospectives are essential for proposing trying something new or dropping something old, reflecting on that change, and adopting or rejecting it.
 
@@ -46,7 +46,7 @@ Teams often don't take this seriously. This takes time and thought about the cur
 
 What if you eliminate sprint planning? What if you switch from sprints to kanban? What if you go from two week sprints to one? What about three? If the team immediately reacts with negativity, push them to think more creatively about all the implications of change that these ideas would bring.
 
-# Shorten Sprint Example
+## Shorten Sprint Example
 
 Say you run a three week sprint cycle. You notice the team always has a heap of work carried over from sprint to sprint. Some tickets are marked as obsolete as we adjust mid-sprint. Some tickets carry on for two or three sprints in an unknown state.
 
@@ -58,6 +58,6 @@ Creative and curious exploration: well how would that work? We'd need to cut our
 
 **Result:** shorter, more focused meetings, more clarity around top priority, less workstreams in-flight at once (team focus), capped ticket estimates at 2 points means clear chunks of work. After taking a few weeks adjusting and tweaking this new flow the team has zero carry over. They feel good about taking work and knocking it out and have a better idea of where they're going.
 
-# In Summary
+## In Summary
 
 Take a step back and look at the big picture. All process is objectively worse locally, but at a macro level can eliminate entire classes of team bugs. Think critically about _why_ you are doing your current process. Removing old process is just as important as adding new. Propose change and iterate keeping in mind that you often won't see big wins immediately.

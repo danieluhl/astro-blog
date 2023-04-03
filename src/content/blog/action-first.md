@@ -6,9 +6,7 @@ tags:
   - productivity
 ---
 
-I want to be more like a person on my team, let's call them Jill.
-
-## How I Work
+## How I normally work
 
 - Should we do this?
 - How do we plan it?
@@ -19,7 +17,7 @@ I want to be more like a person on my team, let's call them Jill.
 - Who wants to take which tickets?
 - I’m taking this one, done! Here’s a PR!
 
-## How Jill Works
+## How I want to work
 
 - I know what would be awesome…
 - Done! Here’s a PR yo
