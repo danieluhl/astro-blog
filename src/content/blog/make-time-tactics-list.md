@@ -45,7 +45,7 @@ reflection to really understand what works.
   humidifiers, etc.)
 - Break down boxes for recycling
 - Avoid
-- [Habit disruptors](habit-disruptors-list) (e.g. no amazon for
+- [Habit disruptors](about-habit-disruptors) (e.g. no amazon for
   the month, no phone for a week, etc.)
 - Pick off the next thing from the learning list
 - Making the bed in the morning
