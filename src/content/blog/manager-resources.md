@@ -55,8 +55,7 @@ How too think about teams, team structure, creating and evolving teams etc:
 [https://hennyportman.files.wordpress.com/2020/05/qrc-team-topologies-200525-v1.0-1.pdf](https://hennyportman.files.wordpress.com/2020/05/qrc-team-topologies-200525-v1.0-1.pdf)
 From “team topologies” book
 
-How to think about and manage glue work
-[https://noidea.dog/glue](https://noidea.dog/glue)
+How to think about and manage glue work [https://noidea.dog/glue](https://noidea.dog/glue)
 
 About what principle engineer is:
 [https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html](https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html)
@@ -64,12 +63,11 @@ About what principle engineer is:
 8 steps for organizational change
 [https://www.kotterinc.com/8-steps-process-for-leading-change/](https://www.kotterinc.com/8-steps-process-for-leading-change/)
 
-Research tells us the problem:
-What’s the current way people do this, without the new solution?
-When does the current way not work?
-What are they trying to do when it doesn’t work?
-How will they know if the new way is working better?
-These MUST be known before reaching for solutions and at all downstream phases of a project. These are the walls that constrain all other activity. With these, future decisions are fast because we have the information necessary to make a good call.
+Research tells us the problem: What’s the current way people do this, without the new solution? When
+does the current way not work? What are they trying to do when it doesn’t work? How will they know
+if the new way is working better? These MUST be known before reaching for solutions and at all
+downstream phases of a project. These are the walls that constrain all other activity. With these,
+future decisions are fast because we have the information necessary to make a good call.
 
 Building high performing teams chart
 [https://i1.wp.com/www.coderhood.com/wp-content/uploads/2018/03/BuildHighPerformingTeamsV2.png?ssl=1](https://i1.wp.com/www.coderhood.com/wp-content/uploads/2018/03/BuildHighPerformingTeamsV2.png?ssl=1)
@@ -100,8 +98,7 @@ Henri feyol 14 principles of management
 the platform manifesto
 [https://github.csnzoo.com/pages/shared/enable-blog/platform-manifesto/](https://github.csnzoo.com/pages/shared/enable-blog/platform-manifesto/)
 
-thinking in systems and related works!
-http://donellameadows.org/archives/dancing-with-systems/
+thinking in systems and related works! http://donellameadows.org/archives/dancing-with-systems/
 
 Various things from resilient management
 [https://drive.google.com/drive/folders/14mE9A8dwaLfMeaqlsB3m50eXmvAMNDwE?usp=sharing](https://drive.google.com/drive/folders/14mE9A8dwaLfMeaqlsB3m50eXmvAMNDwE?usp=sharing)
@@ -126,11 +123,9 @@ On being a manager vs doer
 How to get to next level slides from John Mulliken
 [https://docs.google.com/presentation/d/1IuejcXWf9z5VTcXKmG65bbu62kOdQiS6cLorY14bDPs/edit#slide=id.g3fdf4e9700_0_141](https://docs.google.com/presentation/d/1IuejcXWf9z5VTcXKmG65bbu62kOdQiS6cLorY14bDPs/edit#slide=id.g3fdf4e9700_0_141)
 
-Great charts and resources
-[https://larahogan.me/resources/](https://larahogan.me/resources/)
+Great charts and resources [https://larahogan.me/resources/](https://larahogan.me/resources/)
 
-Awesome charting library
-[https://frappe.io/charts](https://frappe.io/charts)
+Awesome charting library [https://frappe.io/charts](https://frappe.io/charts)
 
 Eat that frog notes
 [https://docs.google.com/document/d/1qRjB-RsfIV1Z56Zj762stUAxFSLt8YrJmD9eRNwVS20/edit?usp=sharing](https://docs.google.com/document/d/1qRjB-RsfIV1Z56Zj762stUAxFSLt8YrJmD9eRNwVS20/edit?usp=sharing)
@@ -155,22 +150,15 @@ Project Planning
 
 Inventing on principal
 [https://www.youtube.com/watch?v=PUv66718DII](https://www.youtube.com/watch?v=PUv66718DII)
-[http://witheve.com/](http://witheve.com/)
-[http://www.luna-lang.org/](http://www.luna-lang.org/)
+[http://witheve.com/](http://witheve.com/) [http://www.luna-lang.org/](http://www.luna-lang.org/)
 
-DT's things
-Personal User Guide:
+DT's things Personal User Guide:
 [https://docs.google.com/document/d/1F78lxAtQ3edADnXS1hQaVjAatyFwNWPZ_j6-uptMm5A/edit](https://docs.google.com/document/d/1F78lxAtQ3edADnXS1hQaVjAatyFwNWPZ_j6-uptMm5A/edit)
 
 Week in Review: (I block off time to update end of every week)
 [https://docs.google.com/document/d/19_NxR2PNivqCBesylXQ8lDykNtgbjOL6qHxU-dCg054/edit#heading=h.ma3esd7v4hs8](https://docs.google.com/document/d/19_NxR2PNivqCBesylXQ8lDykNtgbjOL6qHxU-dCg054/edit#heading=h.ma3esd7v4hs8)
 
-Pointing Estimation Philosophy
-(MUCH more value/high level, went with a 30 minute chat, happy to have that with anyone else here)
-[https://docs.google.com/document/d/1BZcHFK_0pqFQMIsNhtmFBLQbL9wv8m4QhgKlnjJH0Ng/edit?usp=sharing](https://docs.google.com/document/d/1BZcHFK_0pqFQMIsNhtmFBLQbL9wv8m4QhgKlnjJH0Ng/edit?usp=sharing)
-
-list of various resources
-[https://softstuff.tools/tools.html](https://softstuff.tools/tools.html)
+list of various resources [https://softstuff.tools/tools.html](https://softstuff.tools/tools.html)
 
 Have good 1:1 one on ones article for managers and directs
 [https://knowyourteam.com/blog/2017/12/01/how-to-have-an-honest-one-on-one-meeting-with-an-employee/](https://knowyourteam.com/blog/2017/12/01/how-to-have-an-honest-one-on-one-meeting-with-an-employee/)

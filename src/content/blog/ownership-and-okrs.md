@@ -8,12 +8,21 @@ tags:
 
 A PM recently showed a graph that looks roughly like this:
 
-![value-effort](_next/image?url=%2Fimages%2Fpost-images%2Fvalue-effort.png&w=640&q=75)
+![value-effort](/assets/value-effort.png)
 
-This works for engineers and teams which are maintaining existing software or implementing existing solutions. In other words, areas where software needs to be built and maintained without innovation or customer feedback.
+This works for engineers and teams which are maintaining existing software or implementing existing
+solutions. In other words, areas where software needs to be built and maintained without innovation
+or customer feedback.
 
-But when building and innovating on a _product_ I think this misses the point. We rarely know the value _or_ effort, making this graph instantly obsolete. Additionally, when we make OKRs that pre-determine _what_ we're going to build, we remove responsibility, accountability, and let's be honest, life fulfillment from the people actually doing the work (vs planning the work).
+But when building and innovating on a _product_ I think this misses the point. We rarely know the
+value _or_ effort, making this graph obsolete. When we make OKRs that pre-determine _what_ we're
+going to build, we remove responsibility, accountability, and let's be honest, life fulfillment from
+the people actually doing the work (vs planning the work).
 
-You can no longer rate an engineer on outcomes if you've given them the (predicted) outcome before the product is built. THE JOB is to build something with a good outcome that aligns with the business and customer needs.
+Engineers cannot be graded on outcomes if they've been spoon fed the outcome (predicted) before they
+start their work. THE JOB of an engineer is to build something with a good outcome that aligns with
+the business and customer needs.
 
-Good OKRs are less, "we will build this awesome thing because we know it's high value", and more like, "we know our business needs to go in this general direction to succeed".
+Good OKRs are less, "we will build this awesome thing because we know it's high value", and more
+like, "we know our business needs to go in this general direction to succeed". Approach like you
+would a doctor, not a waiter. We're all trying our best to solve the same problems.
