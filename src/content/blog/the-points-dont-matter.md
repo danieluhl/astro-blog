@@ -31,9 +31,9 @@ The job of a product delivery team is to try as many variations as quickly as po
 the best. The job of a software engineer on a product team is to build high quality code fast. None
 of these require estimating tickets, building gantt charts, or sequencing timelines.
 
-By putting estimates, tracking sprint capacity, and forecasting project timelines, we shift the
-focus from solving customer problems to "the guessing game": carefully guessing how long things take
-and striving to hit those commitments.
+By spending time on estimates, sprint capacity, and project timelines, we shift the focus from
+solving customer problems to "the guessing game": carefully guessing how long things take and
+striving to hit those commitments.
 
 ## But what about--
 
