@@ -47,9 +47,6 @@ document for yourself.
 - Take out the garbage
 - Refill all our water vessels (two filter pitchers, two coffee machines, three humidifiers, etc.)
 - Break down boxes for recycling
-- Avoid
-- [Habit disruptors](habit-disruptors-list) (e.g. no amazon for the month, no phone for a week,
-  etc.)
 - Pick off the next thing from the learning list
 - Making the bed in the morning
 - Reading good fiction before bed
