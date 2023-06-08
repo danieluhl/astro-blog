@@ -23,9 +23,9 @@ focus to figuring it out as quickly as possible. Here the "figure it out" become
 
 In each of these cases we can shift focus from timing to priority.
 
-This assumes you have a competent working engineering team focued on fast feedback, high quality,
+This assumes you have a competent working engineering team focused on fast feedback, high quality,
 and high speed. But it's a bit of chicken and egg situation. You may not have a good eng team
-_because_ they are expriencing the friction brought about by estimations.
+_because_ they are experiencing the friction brought about by estimations.
 
 The job of a product delivery team is to try as many variations as quickly as possible to discover
 the best. The job of a software engineer on a product team is to build high quality code fast. None
@@ -44,14 +44,14 @@ work where time is the only thing that matters.
 
 For 99% of teams there are two cases:
 
-1. We can "bubble up" the sentiment that the business focues on priority not timelines and we can
+1. We can "bubble up" the sentiment that the business focuses on priority not timelines and we can
    share our prioritized list with customers.
-2. We can pull timelines out of thin air. The reasearch shows this is equally accurate as our best
+2. We can pull timelines out of thin air. The research shows this is equally accurate as our best
    guess timelines. Product and stakeholders can look at the number of tickets and how many are done
    vs left and play their own guessing game if they want, no need to get engineers involved.
 
 The issue here is that in most teams the org is too afraid to even try. What happens when they do is
-they see their previously projected timelines become a joke. With the speedup engieners get from
+they see their previously projected timelines become a joke. With the speedup engineers get from
 cutting pointing ceremonies, product delivery gets so fast that the business can't keep up. "When" a
 project is delivered doesn't matter when its so fast. Product starts collecting new features and
 padding out release times to optimize the marketing side.
