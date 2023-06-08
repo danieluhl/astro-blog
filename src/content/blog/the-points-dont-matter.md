@@ -1,6 +1,6 @@
 ---
 title: The Points Dont Matter
-pubDatetime: 2021-04-29T12:13:24.000Z
+pubDatetime: 2023-06-08T11:09:26-04:00
 description: Scrum is wrong about pointing tickets
 tags:
   - productivity

@@ -1,6 +1,6 @@
 ---
 title: Do Your Part
-pubDatetime: 2022-05-11T12:13:24.000Z
+pubDatetime: 2023-06-08T11:09:26-04:00
 description: You are doing less than you feel
 tags:
   - philosophy
