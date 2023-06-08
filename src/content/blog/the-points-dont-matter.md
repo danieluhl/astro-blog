@@ -16,7 +16,7 @@ iPhone you built me if my house is on fire.
 
 If you _do_ know you're working on the right thing (prioritization) then it equally doesn't matter
 when it will be done. I don't ask the firemen to sit down and estimate time on each of their tasks
-to get to my house and put out the fire, please skip that setp and just get here.
+to get to my house and put out the fire, please skip that step and just get here.
 
 Finally, if you're not sure the thing you're building is the right thing or not, it's time to shift
 focus to figuring it out as quickly as possible. Here the "figure it out" becomes the priority.
