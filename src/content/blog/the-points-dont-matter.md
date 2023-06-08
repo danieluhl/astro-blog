@@ -6,26 +6,36 @@ tags:
   - productivity
 ---
 
-A bit of context before I begin: I have three official scrum master certifications and trained in a
-dedicated one week course under Ken Schwaber himself. My brother is a full-time scrum master. I've
-practices some form of scrum over the past 15+ years and I understand the tradeoffs in the space.
-I'm here to tell you definitively that pointing tickets is a destraction at best.
+I have three official scrum master certifications and trained in a dedicated one week course under
+Ken Schwaber himself. I have 15+ years practical experience on a wide variety of teams. The biggest
+unlock to productivity I've found is eliminating practices associated with estimations, or what I
+call "the guessing game".
 
-Think about it carefully, if you're not building the right thing, it doesn't matter when it's done.
-If you know you're definitely working on the right thing, it doesn't matter how long it's going to
-take. If you're not sure the thing you're building is the right thing or not, it's time to shift
-focus to figuring it out as quickly as possible.
+If you're not building the right thing, it doesn't matter when it's done. I don't care about the
+iPhone you built me if my house is on fire.
+
+If you _do_ know you're working on the right thing (prioritization) then it equally doesn't matter
+when it will be done. I don't ask the firemen to sit down and estimate time on each of their tasks
+to get to my house and put out the fire, please skip that setp and just get here.
+
+Finally, if you're not sure the thing you're building is the right thing or not, it's time to shift
+focus to figuring it out as quickly as possible. Here the "figure it out" becomes the priority.
+
+In each of these cases we can shift focus from timing to priority.
 
 This assumes you have a competent working engineering team focued on fast feedback, high quality,
-and high speed. The job of a product team is to try as many variations as quickly as possible to
-discover the best. The job of a software engineer on a product team is to build high quality code
-fast. None of these require estimating tickets, building gantt charts, or sequencing timelines.
+and high speed. But it's a bit of chicken and egg situation. You may not have a good eng team
+_because_ they are expriencing the friction brought about by estimations.
+
+The job of a product delivery team is to try as many variations as quickly as possible to discover
+the best. The job of a software engineer on a product team is to build high quality code fast. None
+of these require estimating tickets, building gantt charts, or sequencing timelines.
 
 By putting estimates, tracking sprint capacity, and forecasting project timelines, we shift the
 focus from solving customer problems to "the guessing game": carefully guessing how long things take
 and striving to hit those commitments.
 
-## But what about-
+## But what about--
 
 ### Our stakeholders are making commitments to customers and we need to hit those timelines
 
