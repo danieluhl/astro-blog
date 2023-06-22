@@ -2,7 +2,6 @@
 title: Manager Resources
 author: Daniel Uhl
 pubDatetime: 2023-03-27T15:45:50-04:00
-featured: true
 tags:
   - management
 description: Links and books for managers both in tech and beyond
