@@ -13,12 +13,23 @@ mastering. My layout is, I'm confident, better for me than a standard keyboard l
 certainly will not work for many people so I wanted to write about my learning journey to hopefully
 help others speed things up or give some ideas to try.
 
-[My Layout](https://my.glove80.com/#/layout/user/286c60d0-1fed-4308-8689-15d181846aba)
+[My Layout](https://my.glove80.com/#/layout/user/8968b064-df60-497f-8b20-21814ead2850)
 
 For a little context: I do software engineering in vim and bounce to Arc browser and use chrome dev
 tools quite a bit. I use shortcuts in almost every program I have. I use hyperkey plus raycast to
 wire up programs directly to keys. In the past I've been using karabiner to modify `hjkl` to match
 vim movement arrow keys (and I love having arrows here).
+
+0. Pre-work
+
+Read up on what's possible with ZMK. Primarily, understand the differences and settings for mod-tap,
+layer-tap, and mod-morph. This will start your imagination running wild. And just to get you excited
+imagine having home row mod-taps that allow you to use asdf as ctrl, alt, cmd, and shift when held!
+Imagine having a proper 10 key number pad you can access with a key press!
+
+If you do try home row mods and you're struggling with the timing, check out
+[this insane layout](https://sunaku.github.io/moergo-glove80-keyboard.html), I found it fairly easy
+to borrow and use to optimize mine.
 
 1. Feel things out first
 
@@ -68,7 +79,6 @@ left plus bracets in the curl fingers on the right.
 6. Don't stray from standard querty too far, I still want to be useful on my laptop
 7. Scrolling on the right hand (left hand modifier), indexing directly on the left (e.g. tabs, arc
    spaces, applications, etc.)
-8. No modtaps on fast keys, the delay will bite you
 
 You'll note I don't entirely stick to these principles but thinking though them helped me get to a
 point where I can start to practice and refine over time. After two days with the glove80 I'm back
