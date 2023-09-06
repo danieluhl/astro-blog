@@ -12,7 +12,7 @@ mastering. My layout is, I'm confident, better for me than a standard keyboard l
 certainly will not work for many people so I wanted to write about my learning journey to hopefully
 help others speed things up or give some ideas to try.
 
-[My Layout](https://my.glove80.com/#/layout/user/8968b064-df60-497f-8b20-21814ead2850)
+[My Layout](https://my.glove80.com/#/layout/user/9642fdc5-b23c-4910-a7bc-fb322029663d)
 
 For a little context: I do software engineering in vim and bounce to Arc browser and use chrome dev
 tools quite a bit. I use shortcuts in almost every program I have. I use hyperkey plus raycast to
@@ -26,7 +26,11 @@ layer-tap, and mod-morph. This will start your imagination running wild. And jus
 imagine having home row mod-taps that allow you to use asdf as ctrl, alt, cmd, and shift when held!
 Imagine having a proper 10 key number pad you can access with a key press!
 
-If you do try home row mods and you're struggling with the timing, check out
+My strategy with home row mods is to use separate mod keys (pinkeys for shift and thumbs for the
+rest) for single press/hold cases, and home-row mods as an option when I would otherwise be making a
+claw to hit all of them. So, for example, to hard refresh a website I'll hold 'k' (cmd) + 'j'
+(shift) and hit 'r'. But to switch tabs I'll hold the cmd key on the thumb and hit '}'. If you do
+try home row mods and you're struggling with the timing, check out
 [this insane layout](https://sunaku.github.io/moergo-glove80-keyboard.html), I found it fairly easy
 to borrow and use to optimize mine.
 
@@ -58,13 +62,19 @@ that's not why you spent $400 on a split ergo with six key thumb clusters :)
 Focus on the most used patterns and how you can build them into the keyboard in a logical way. Here
 was my though process:
 
-I type numbers fastest with 10key layout so I want that on a layer. To more easily find symbols I
-can place the corresponding symbols on numbers in another layer.
+I type numbers fastest with 10-key layout so I want that on a layer. I jump to tabs, lines, and
+"spaces" via numbers so it's important that numbers are easy/fast to hit.
 
-I switch tabs and programs very frequently but also want to index directly to a tab or program. So I
-decided all indexing actions will be a right hand modifier with left hand key and vice versa for
-"scrolling" like combos. For example, `cmd+shift+[` is easily pressed with a single thumb key on the
-left plus bracets in the curl fingers on the right.
+Next I want symbols that make sense when typing code in vim (e.g. "=>", "->"). Again, it must be
+fast/easy to hit any symbol or combination of symbols.
+
+Finally a whole bunch of things that just make sense for me:
+
+- I put % under 'p' on the symbols layer
+- ^ and $ are under 'h' and 'l' because left and right in vim and start/end in vim
+- # and \* are under 'j' and 'k' becuase up and down in vim and prev/next in vim
+- & and | are next to eachother
+- \ is under / on symbol layer
 
 ## Principles
 
@@ -73,11 +83,11 @@ left plus bracets in the curl fingers on the right.
 2. The top two rows are completely optional, everything I use should be elsewhere
 3. Never get stuck: have all modifies available on the base layer so in a pinch you can contort
    hands to hit the necessary keys
-4. One way is better than several options
-5. It's perfectly fine to leave as many keys blank as you like!
-6. Don't stray from standard querty too far, I still want to be useful on my laptop
-7. Scrolling on the right hand (left hand modifier), indexing directly on the left (e.g. tabs, arc
-   spaces, applications, etc.)
+4. One way is usually better than several options, but don't fear contextual duplication (e.g. math
+   operations on the number layer and symbols layer)
+5. Don't feel the need to use every key, you can leave things blank for a few months and fill in
+   what makes sense later
+6. Don't stray from standard querty too far if you still want to be useful on a regular keyboard
 
 You'll note I don't entirely stick to these principles but thinking though them helped me get to a
 point where I can start to practice and refine over time. After two days with the glove80 I'm back
