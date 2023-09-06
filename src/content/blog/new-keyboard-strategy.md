@@ -1,10 +1,9 @@
 ---
 title: New Keyboard Strategy
 pubDatetime: 2023-07-15T15:34:20-04:00
-description: My journey constructing layout for a very different keyboard: the
-Glove80
+description: My journey constructing layout for the Glove80
 tags:
-  - development
+  - programming
 ---
 
 I bought a [glove80](https://www.moergo.com/) keyboard and I'm slowly and a little painfully typing
