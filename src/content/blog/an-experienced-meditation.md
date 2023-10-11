@@ -54,7 +54,7 @@ just an inch of a hundred mile long road. But it's more movement than you've had
 conducting surgery on the subconscious. We're shifting the defaults.
 
 You notice you've been lost in thought. You notice your visual field swirling in a not quite dark
-open space. You feel your hands and lets and face. The breath is coming and going in your nose,
+open space. You feel your hands and legs and face. The breath is coming and going in your nose,
 chest, belly. As you stir to begin returning to your day you feel all your skin at once in a soft
 tingle. A small smile spreads across your face. The work you've done on your subconscious is like a
 dream you can't quite remember.
