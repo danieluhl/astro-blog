@@ -9,8 +9,6 @@ description: Dans Lifestyle Brands
 
 # Recommended Lifestyle Brands
 
-check
-
 This is an ongoing list of things I actively use and enjoy. Many of these have come from years of
 personal experience, others I stumbled into something I like first try. Comment if you've tried one
 of these but found something even better.
@@ -19,9 +17,8 @@ of these but found something even better.
 
 - [breville barista express](https://www.williams-sonoma.com/products/breville-barista-express-espresso-maker/)
 - [Awesome Coffee Club](https://awesomecoffeeclub.com/)
-- [Amazon Essentials hoodie](https://www.amazon.com/gp/product/B07NYBGWKG/)
-  - Upgrade: [SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt)
-  - Lottery winners $$$: [Relwen Hoodie](https://relwen.com/)
+- [SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt)
+  - Outdoor: [Duckworth Powder Hoodie](https://www.duckworthco.com/products/mens-powder-hoody)
 - [Uniqlo Undershirts](https://www.uniqlo.com/us/en/men/heattech)
   - Upgrade: [Lulu Lemon T-shirts](https://shop.lululemon.com/c/mens-t-shirts/)
 - [Vuori Sunday Performance Jogger](https://vuoriclothing.com/products/sunday-performance-jogger-black)
@@ -57,6 +54,17 @@ donate ALL profit to a good cause.
 
 ### Hoodie
 
+UPDATE 2: [Duckworth Powder Hoodie](https://www.duckworthco.com/products/mens-powder-hoody) This is
+my top pick for outdoor midlayer hoodie. Not as great for indoors as it's too warm. Medium price,
+runs a bit baggy, super soft and super warm. The style of the folded hood is so much better than
+drawstrings I wonder why others don't do this. Only downside I've found is the cuffs are frayed
+style so it rolls up a bit at the bottom and my work gloves' velcro pulls on the cuff threads quite
+a bit.
+
+UPDATE: My new fav is the
+[SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt). It runs a bit
+skinny but the softness is amazing.
+
 My current hoodie strategy is to buy one new
 [Amazon Essentials hoodie](https://www.amazon.com/gp/product/B07NYBGWKG/) each year. It's soft and
 durable, looks great, and you don't need to worry about the price.
@@ -66,35 +74,15 @@ durable, looks great, and you don't need to worry about the price.
 mine did have noticeable wear after one year too. And I can't bring myself to spend this much every
 year.~~
 
-UPDATE: My new fav is the
-[SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt). It runs a bit
-skinny but the softness is amazing.
-
 I do NOT recommend the
 [flint and tinder 10 year hoodie](https://huckberry.com/store/shop/flint-and-tinder-10-year-collection).
 Yes it may last longer, but you'll suffer through every moment of wearing it. Super uncomfortable,
 not stretchy, not very warm.
 
-### Mug
-
-The [Ember Mug](https://ember.com/) is great for tea, not so great for anything with milk in it
-unless you drink fast (then what's the point of keeping warm?).
-
-Get the large version, a big portion of the cup is battery/heating element so it's smaller than it
-looks in the pictures.
-
 ### Underwear
 
-~~I'm still highly recommending [Me Undies](https://www.meundies.com/)
-
-Never go shopping for underwear again. I can't stand bland underwear and love getting these each
-month. The worst thing about subscriptions is the hassle of canceling them. Me Undies handles this
-well, I've canceled and re-subscribed several times with no problems.
-
-The only issue I've had is trying to keep track of which pair is the oldest to know what to throw
-away first. Please let me know if there's an easy strategy to manage this!~~
-
-UPDATE: Me Undies has raised their prices and I'm in the market for an alternative option
+UPDATE: Me Undies has raised their prices so I've fully switched to Puma from Costco. Cheap and
+super comfortable.
 
 ### [Undershirts, long sleeve shirts: Uniqlo!](https://www.uniqlo.com/us/en/men/heattech)
 

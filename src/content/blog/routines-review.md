@@ -58,18 +58,25 @@ break the cycle by relaxing and taking control.
 | Caffeine too much or too early  | One coffee mid-morning, no coffee on weekends |
 | Dropping tasks for lack of time | Making progress everywhere consistently       |
 
-### Tools
+### Software
 
 | Category              | Tool                                             |
 | :-------------------- | :----------------------------------------------- |
 | Todo App              | [Things3](https://culturedcode.com/things/)      |
 | Terminal              | [Warp](https://www.warp.dev/)                    |
 | Coding                | [Neovim](https://neovim.io)                      |
-| Computer              | Macbook Pro (M chip)                             |
 | Browser               | [Arc](https://arc.net/)                          |
 | Notes (minimal theme) | [Obsidian (in vim mode)](https://obsidian.md/)   |
 | Spotlight (with AI)   | [Raycast](https://www.raycast.com/)              |
 | Blog                  | [Astro](https://github.com/danieluhl/astro-blog) |
+| Bar asthetics         | Hidden Bar and One Thing                         |
+
+### Hardware
+
+| Category | Tool                               |
+| :------- | :--------------------------------- |
+| Computer | Macbook Pro (M chip)               |
+| Keyboard | [Glove80](https://www.moergo.com/) |
 
 ## 2022
 
@@ -95,20 +102,14 @@ break the cycle by relaxing and taking control.
 | Saturday | Isolated learning time, personal growth                        |
 | Sunday   | Dedicated family time, relaxation, work prep for the next week |
 
-### Tools
-
-| Category              | Tool                                             |
-| :-------------------- | :----------------------------------------------- |
-| Todo App              | [Things3](https://culturedcode.com/things/)      |
-| Terminal              | [Warp](https://www.warp.dev/)                    |
-| Coding                | [Neovim](https://neovim.io)                      |
-| Computer              | Macbook Pro (M chip)                             |
-| Browser               | [Arc](https://arc.net/)                          |
-| Notes (minimal theme) | [Obsidian (in vim mode)](https://obsidian.md/)   |
-| Spotlight (with AI)   | [Raycast](https://www.raycast.com/)              |
-| Blog                  | [Astro](https://github.com/danieluhl/astro-blog) |
-
 ## Changelog
+
+### 2023-06-22
+
+- Dropped off podcast publishing for a while as it's getting difficult to get people committed to a
+  schedule
+- New keyboard Glove80 with totally revamped custom layout, this took about a month to get back to
+  reasonable speed with and should pay off many times over in the next year
 
 ### 2023-06-22
 

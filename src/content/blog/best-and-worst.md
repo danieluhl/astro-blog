@@ -1,7 +1,7 @@
 ---
-title: Why are we so anxious when the world is generally better
+title: Anxiety and a Great World
 pubDatetime: 2024-01-02T07:04:27-05:00
-description:
+description: Why are we so anxious when so much is better?
 tags:
   - philosophy
 ---
