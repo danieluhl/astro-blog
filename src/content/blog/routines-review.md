@@ -1,6 +1,6 @@
 ---
 title: Routines Review
-pubDatetime: 2023-03-01T12:13:24.000Z
+pubDatetime: 2024-01-05T11:29:22-05:00
 featured: true
 tags:
   - upkeep
