@@ -6,10 +6,9 @@ tags:
   - productivity
 ---
 
-Inputs are not bad, but focusing on them by spending time and frequently talking
-about them has been shown ineffective for changing markets, innovation, or
-[discipline/motivation](05-10-motivation-vs-discipline). Instead focus on
-outputs.
+Inputs are not bad, but focusing on them by spending time and frequently talking about them has been
+shown ineffective for changing markets, innovation, or
+[discipline/motivation](05-10-motivation-vs-discipline). Instead focus on outputs.
 
 ## Inputs example (de-emphasize)
 

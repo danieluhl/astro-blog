@@ -6,10 +6,9 @@ tags:
   - programming
 ---
 
-Just like you _are_ testing so you might as well automate it before writing code,
-you also _are_ pair programming so you might as well do it live. Writing is a
-conversation with another human and the quality of the writing depends on
-the context of the reader.
+Just like you _are_ testing so you might as well automate it before writing code, you also _are_
+pair programming so you might as well do it live. Writing is a conversation with another human and
+the quality of the writing depends on the context of the reader.
 
 ## Testing
 

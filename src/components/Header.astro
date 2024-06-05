@@ -3,8 +3,10 @@ import { LOGO_IMAGE, SITE } from "@config";
 import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
-import logoPNG from "/assets/lullol.png";
-import logoSVG from "/assets/logo.svg";
+import { Image } from 'astro:assets';
+
+import logoPNG from "../images/lullol.png";
+import logoSVG from "../images/logo.svg";
 
 export interface Props {
   activeNav?: "posts" | "tags" | "about" | "search";
@@ -20,7 +22,7 @@ const { activeNav } = Astro.props;
       <a href="/" class="logo">
         {
           LOGO_IMAGE.enable ? (
-            <img
+            <Image
               src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
               alt="LL Logo"
               width={LOGO_IMAGE.width}

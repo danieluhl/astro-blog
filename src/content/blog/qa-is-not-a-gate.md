@@ -6,8 +6,8 @@ tags:
   - productivity
 ---
 
-QA, or "assuring quality", is simply a form of checking your work. Trust but
-verify. Check assumptions.
+QA, or "assuring quality", is simply a form of checking your work. Trust but verify. Check
+assumptions.
 
 Examples of QA:
 
@@ -16,5 +16,5 @@ Examples of QA:
 - Showing a mock or MVP to real users
 - Adding logs and monitoring with well calibrated dashboards
 
-Quality, like security, accessibility, design, and performance, must all be
-built into the product at every step.
+Quality, like security, accessibility, design, and performance, must all be built into the product
+at every step.

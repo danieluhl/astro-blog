@@ -37,29 +37,27 @@ An example of the pubDatetime is this:
 pubDatetime: 2023-03-21T10:05:48-04:00
 ```
 
-This would be incredibly painful to type out by hand so I set about to find a
-nice way to insert this with a VIM keymap.
+This would be incredibly painful to type out by hand so I set about to find a nice way to insert
+this with a VIM keymap.
 
-First, we need sane date logic from the command line. I'm on MacOS so need to
-install coreutils:
+First, we need sane date logic from the command line. I'm on MacOS so need to install coreutils:
 
 ```bash
 brew install coreutils
 ```
 
-Check out the awesome date stuff we get in [the coreutils docs](https://www.gnu.org/software/coreutils/manual/coreutils.html#date-invocation)!
+Check out the awesome date stuff we get in
+[the coreutils docs](https://www.gnu.org/software/coreutils/manual/coreutils.html#date-invocation)!
 
 After installed you can prefix bash commands with `g` to get the good stuff.
 
-We could get fancy with all the formatting, but what we really want is the ISO
-string:
+We could get fancy with all the formatting, but what we really want is the ISO string:
 
 ```bash
 gdate --iso-8601=seconds
 ```
 
-This date passes our zod validation so now we just need to wire it up to a VIM
-mapping:
+This date passes our zod validation so now we just need to wire it up to a VIM mapping:
 
 ```lua
 ["<leader>pd"] = "g:r!gdate --iso-8601=seconds<cr>"

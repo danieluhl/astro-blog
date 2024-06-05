@@ -19,9 +19,12 @@ npm install -g yo generator-web-extension
 yo web-extension
 ```
 
-Lots of options but I'd go with the minimum for now. One thing I did include was a button in the extension.
+Lots of options but I'd go with the minimum for now. One thing I did include was a button in the
+extension.
 
-Then go to your [chrome extensions](chrome://extensions/) and click "Load Unpacked". Find the `dist` directory that was generated and you should have your dev extension in chrome ready to go. Click the puzzle piece in the extensions area and pin your extension.
+Then go to your [chrome extensions](chrome://extensions/) and click "Load Unpacked". Find the `dist`
+directory that was generated and you should have your dev extension in chrome ready to go. Click the
+puzzle piece in the extensions area and pin your extension.
 
 Now we can fire up the watcher and start coding while getting a live refresh:
 
@@ -31,9 +34,12 @@ npm run dev chrome
 
 ## Code Structure
 
-There's a little popup when you click the extension. Think of this as it's own separate web page. In fact, you can right-click the extension and "inspect" just like it's a web page. This is where you'll see any `console.log` for the extension bits.
+There's a little popup when you click the extension. Think of this as it's own separate web page. In
+fact, you can right-click the extension and "inspect" just like it's a web page. This is where
+you'll see any `console.log` for the extension bits.
 
-We'll be injecting a super simple timer onto the page. To do this the extension needs to send a message to the page.
+We'll be injecting a super simple timer onto the page. To do this the extension needs to send a
+message to the page.
 
 Go to `app/pages/popup.html` and add a button with class `timerButton`.
 
@@ -43,7 +49,8 @@ Now look in `/app/scripts` and you'll see three files, two we'll be touching are
 
 `contentscript.js`: this is for code that runs in the page the user is currently on
 
-So we need to send a message from `popup.js` to `contentscript.js` to trigger injection of a timer on the page.
+So we need to send a message from `popup.js` to `contentscript.js` to trigger injection of a timer
+on the page.
 
 `popup.js`:
 
@@ -69,7 +76,8 @@ function addTimer() {
 
 ```
 
-Once we hit the page we'll do all the timer stuff including injecting some html on the page that has some hacky draggability:
+Once we hit the page we'll do all the timer stuff including injecting some html on the page that has
+some hacky draggability:
 
 ```
 const SECOND = 1000;

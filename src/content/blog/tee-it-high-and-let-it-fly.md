@@ -6,4 +6,5 @@ tags:
   - philosophy
 ---
 
-Be mindful of your energy levels, engagement, and performance. Understand there are highs and lows. Use the lows as time to prepare so when the high happens it's optimized.
+Be mindful of your energy levels, engagement, and performance. Understand there are highs and lows.
+Use the lows as time to prepare so when the high happens it's optimized.

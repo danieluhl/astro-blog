@@ -18,8 +18,11 @@ function without(object, keys) {
 }
 ```
 
-`Object.fromEntries` ([MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries)) as you'd expect creates an object from a list (any iterable not just array) of entries.
+`Object.fromEntries`
+([MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries))
+as you'd expect creates an object from a list (any iterable not just array) of entries.
 
 You can think of it like the inverse of `Object.entries`.
 
-In this case we're using the `without` function to reduce an object to only the list of keys/values we want.
+In this case we're using the `without` function to reduce an object to only the list of keys/values
+we want.
