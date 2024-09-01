@@ -6,10 +6,11 @@ tags:
   - productivity
 ---
 
-There are a ton of materials on forming habits (trigger, routine, reward) but equally important are
-habit disruptors. These break up your day and help to get perspective on where your time is going
-and true value of your activities. We have many [biases](https://yourbias.is/) that can color our
-perception.
+While much emphasis is placed on habit formation (using the
+trigger-routine-reward cycle), we often overlook the significance of habit
+disruptors. These break up your day and help to get perspective on where your
+time is going and true value of your activities. We have many
+[biases](https://yourbias.is/) that can color our perception.
 
 ## Pick a Habit
 
