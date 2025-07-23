@@ -1,5 +1,5 @@
 ---
-title: When to _NOT_ use AI
+title: When NOT to use AI
 pubDatetime: 2025-07-23T19:23:51.391Z
 description: Not Using ai
 tags: 
