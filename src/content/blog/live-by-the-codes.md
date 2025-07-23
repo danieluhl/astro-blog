@@ -70,3 +70,104 @@ the world to interact genuinely with people where they are. Try to break through
 social walls that others put up to form a true connection, however brief. These
 moments give life value and are increasingly hard to come by.
 
+
+# Your Codes
+
+Below I'll dump all the references I used to come up with my codes. With AI I'm
+sure you can quickly come up with your own battle to fight.
+
+
+## General 
+
+- Sympathetic Joy: rejoicing in the happiness of others
+- Put people first
+- Never be overheard complaining, not even to yourself
+- Do only what’s essential.
+- Waste no time worrying about other people’s opinions
+- Don’t suffer imagined troubles
+- Focus on effort, not outcomes
+- You’re afraid of death because you won’t be able to do this anymore?
+- Choose sympathy over outrage
+- Blow your own nose: get active in your own rescue, nobody else can fight this battle
+- Think progress, not perfection
+- Let go of anxiety
+- Do the more difficult thing
+- Wake up early
+- Be strict with yourself and tolerant of others
+- Don’t be afraid to ask for help
+- Accept the good stuff without arrogance. Let the bad stuff go with indifference. Neither success nor failure say anything about you. A rock thrown in the air gains nothing by going up, Marcus said, and nothing by falling down.
+- Be free of passion and full of love.  It’s that they controlled those emotions and replaced them with love. They loved their fate (amor fati), they loved other people, they loved every minute they were alive. Love, love, love. That’s what you replace it all with.
+
+## Meditations, stoic
+
+1. Focus on what you can control: Aurelius believed that external events are largely outside of our control, but our reactions to them are not. He encouraged individuals to focus their energy on their own thoughts, judgments, and actions, rather than on things they cannot influence. 
+2. Embrace adversity as a teacher: Rather than viewing challenges as obstacles, Aurelius saw them as opportunities for growth and self-improvement. He believed that facing difficulties with courage and resilience could lead to inner strength and wisdom. 
+3. Live in the present moment: Dwelling on the past or worrying about the future can lead to anxiety and unhappiness. Aurelius emphasized the importance of being fully present in the here and now, appreciating the beauty and opportunities of each moment. 
+4. Cultivate inner peace through virtue and reason: Aurelius believed that true happiness comes from within, from living a life of virtue, guided by reason and logic. He encouraged individuals to develop self-awareness, practice self-control, and act with integrity. 
+5. Find contentment in simplicity: Aurelius believed that happiness doesn't require material wealth or external achievements. He found joy in simple things like spending time in nature, reading, and engaging in meaningful work. 
+6. Practice self-awareness: Understanding your own thoughts, emotions, and motivations is crucial for personal growth and living a more fulfilling life. Aurelius encouraged individuals to examine their inner world and identify their strengths and weaknesses. 
+7. Be mindful of your thoughts: Aurelius believed that our thoughts shape our reality. He encouraged individuals to cultivate positive and rational thoughts, rather than allowing negative or irrational thoughts to dominate their minds. 
+8. Strive for excellence in all you do: While acknowledging the importance of accepting what you cannot control, Aurelius also emphasized the need to strive for excellence in the things you can. This means approaching every task with diligence, purpose, and a commitment to doing your best. 
+9. Remember your mortality: By contemplating the fact of death, Aurelius believed that individuals could gain a greater appreciation for life and live more authentically. This awareness can help prioritize what truly matters and avoid wasting time on trivial pursuits. 
+10. Act with kindness and compassion: Aurelius believed that all humans are interconnected and that acting with kindness and compassion towards others is essential for a harmonious society. He encouraged individuals to treat others with respect and understanding, even those who may be difficult. 
+
+
+## 4 stoic virtues:
+
+- Wisdom:
+    - This virtue involves understanding the world, discerning good from bad, and making rational decisions based on this understanding. It's about knowing what is truly valuable and what is not. 
+- Justice:
+    - Justice in Stoicism encompasses fairness, honesty, and treating others with respect and consideration. It involves recognizing our duties to others and acting in accordance with those duties. 
+- Courage:
+    - Courage is not just about physical bravery, but also about facing adversity with resilience and determination. It's about enduring challenges and setbacks without complaining or losing hope. 
+- Temperance:
+    - Temperance is the virtue of self-control and moderation. It involves regulating desires and passions, avoiding extremes, and maintaining balance in all aspects of life
+
+[via](https://ryanholiday.net/19-rules-for-a-better-life-from-marcus-aurelius/)
+
+## Buddhist
+
+Key Virtues in Buddhism:
+
+Five Precepts:
+
+These are basic ethical guidelines for lay practitioners:
+
+- Abstaining from killing. 
+- Abstaining from stealing. 
+- Abstaining from sexual misconduct. 
+- Abstaining from lying. 
+- Abstaining from intoxicants. 
+
+Ten Virtues (for laypeople):
+
+Expand upon the Five Precepts and include: 
+
+- Not killing. 
+- Not stealing. 
+- Not engaging in sexual misconduct. 
+- Not lying. 
+- Not speaking harshly. 
+- Not gossiping. 
+- Not speaking idly. 
+- Not being greedy. 
+
+Not holding wrong views. 
+
+- Four Brahmaviharas (Divine Abidings):
+- These are four qualities of mind to cultivate: 
+- Metta (Loving-kindness): Wishing happiness for all beings. 
+- Karuna (Compassion): Wishing to relieve suffering. 
+- Mudita (Sympathetic Joy): Rejoicing in the happiness of others. 
+- Upekkha (Equanimity): Maintaining balance and not being overly attached to outcomes. 
+
+Six Paramitas (Mahayana):
+
+- These are perfections or transcendent qualities: 
+- Dana (Giving/Generosity): Sharing resources and wisdom. 
+- Sila (Moral Discipline): Following ethical guidelines. 
+- Ksanti (Patience/Forbearance): Enduring difficulties with grace. 
+- Virya (Energy/Diligence): Making a consistent effort towards enlightenment. 
+- Dhyana (Meditation): Cultivating concentration and mental stability. 
+- Prajna (Wisdom): Understanding the true nature of reality. 
+
