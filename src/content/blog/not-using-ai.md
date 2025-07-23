@@ -16,7 +16,7 @@ Do _not_ use AI:
 
 - Learning about a codebase: it will make things confusing and the learning
     won't stick as well as manually walking around through the codebase via LSP
-- Getting work done in an infamiliar context: you won't _really_ know if it
+- Getting work done in an unfamiliar context: you won't _really_ know if it
     is sneaking a business bug in there, even if the code is correctly placed
     and logically sound (which it often also is not)
 - Writing communications to people you know: it will be obvious and could be
@@ -31,11 +31,15 @@ _Do_ use AI:
     the best example I've found is looking for a recipe. 
 - Coding when you know EXACTLY what you want and you are confident in your
     ability to describe it. I'll caveat this with you _should_ have your agent
-    fully trained with a good amount of conext setup about coding style before
+    fully trained with a good amount of context setup about coding style before
     doing this
 - Coding when the task is well worn: AI was trained on existing code, it's good
     at something that exists in 10K codebases already, let it do it _if_ it's
     just busy work for you and not part of learning
 - When talking to an AI: for example when replying to a recruiter email - this
     is probably an AI you're talking to, don't waste your time
-
+- Taking notes and summarizing things: I use superwhisper for this and love
+    it, speaking to an AI with your voice and having it respond feels very
+    good/natural vs typing things out. Superwhisper also works with claude code
+    or gemini cli.
+- Blog logos: see above :)
