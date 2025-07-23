@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://blog.reyan.me/",
   author: "Daniel Uhl",
   desc: "All things coding, philosophy, and lifestyle",
-  title: "luculent lollygag",
+  title: "The Pixelated Pond",
   ogImage: "typing-turtle.jpeg",
   lightAndDarkMode: true,
   postPerPage: 50,

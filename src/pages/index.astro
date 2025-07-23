@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Luculent Lollygag</h1>
+      <h1>The Pixelated Pond</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -41,19 +41,18 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        Luculent Lollygag is a place to store thoughts that seem important at
-        the time. Topics are mostly about frontend web development but also
-        frequently touch on philosophy, science, health, and lifestyle topics.
+        The Pixelated Pond is where the typing turtle goes to relax. Here I 
+        store thoughts that seem important at the time. Topics are mostly
+        about frontend web development but also frequently touch on philosophy,
+        science, health, and lifestyle topics.
       </p>
 
       <p>
-        Read the blog posts listen to the
+        Read the blog posts listen to 
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="https://podcasts.apple.com/gb/podcast/luculent-lollygag/id1608573971"
-        >
-          Podcast
-        </LinkButton> for more content.
+        >Luculent Lollygag</LinkButton> for more content.
       </p>
       {
         // only display if at least one social link is enabled
@@ -66,7 +65,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       }
     </section>
 
-    <Hr />
+    <hr />
 
     {
       featuredPosts.length > 0 && (

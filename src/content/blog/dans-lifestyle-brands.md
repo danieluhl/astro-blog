@@ -15,6 +15,8 @@ of these but found something even better.
 
 ## TLDR recommendations
 
+- [quince mens boxer
+    briefs](https://www.quince.com/men/3pack-organic-cotton-6-boxer-brief)
 - [breville barista express](https://www.williams-sonoma.com/products/breville-barista-express-espresso-maker/)
 - [Awesome Coffee Club](https://awesomecoffeeclub.com/)
 - [SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt)
@@ -79,7 +81,10 @@ I do NOT recommend the
 Yes it may last longer, but you'll suffer through every moment of wearing it. Super uncomfortable,
 not stretchy, not very warm.
 
-### Underwear
+### Underwear: Quince
+
+UPDATE 2: Quince is a bit expensive but their cotton boxer briefs are incredible!
+Truly above any other in the price range I've tried, including MeUndies.
 
 UPDATE: Me Undies has raised their prices so I've fully switched to Puma from Costco. Cheap and
 super comfortable.
