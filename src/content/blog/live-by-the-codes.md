@@ -24,8 +24,10 @@ struggle with. I landed on three:
 
 On The Skeptics' Guide podcast and on Science Based Medicine, Steve Novella
 often repeats this one advice for nutrition: eat a wide variety, everything in
-moderation. That phrase, "everything in moderation", and "the dose makes the
-poison", is something I take to heart, not only in nutrition. 
+moderation. This simple advice that has been around for decades can save you
+thousands of dollars and time and hassle with all sorts of fad diets and
+supplements. It's not easy, but it is consistently effective. Your body and mind
+will thank you.
 
 However, with smaller behaviors it's easy to let this slip - eat just a little
 too much candy or play a little too much video games here and there. Soon you'll
