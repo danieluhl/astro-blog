@@ -18,13 +18,13 @@ export const blogSchema = z
     featured: z.boolean().optional(),
     draft: z.boolean().optional(),
     tags: z.array(z.string()).refine(
-      arr => {
-        return arr.every(str => VALID_TAGS.has(str));
+      (arr) => {
+        return arr.every((str) => VALID_TAGS.has(str));
       },
-      arr => {
-        const invalid = arr.filter(str => !VALID_TAGS.has(str));
+      (arr) => {
+        const invalid = arr.filter((str) => !VALID_TAGS.has(str));
         return { message: `Invalid tags: ${invalid}` };
-      }
+      },
     ),
     ogImage: z.string().optional(),
     description: z.string(),

@@ -1,9 +1,9 @@
-import { defineConfig } from "astro/config";
-import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
-import remarkToc from "remark-toc";
-import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
+import tailwind from "@astrojs/tailwind";
+import { defineConfig } from "astro/config";
+import remarkCollapse from "remark-collapse";
+import remarkToc from "remark-toc";
 import { remarkLinkFixer } from "./scripts/remarkPlugins/remarkLinkFixer.js";
 // import { validatePostTags } from "./scripts/remarkPlugins/remarkTagValidator.js";
 // import remarkValidateLinks from "remark-validate-links";

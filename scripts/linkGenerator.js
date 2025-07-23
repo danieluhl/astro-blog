@@ -1,17 +1,17 @@
-import slugify from "./slugify.js"
 import fs from "node:fs";
 import path from "node:path";
 import grayMatter from "gray-matter";
+import slugify from "./slugify.js";
 
-const CONTENT_PATH = "src/content/blog/"
+const CONTENT_PATH = "src/content/blog/";
 const pwd = process.cwd();
 
 const getAllBlogPaths = () => {
   const files = fs.readdirSync(path.join(pwd, CONTENT_PATH));
-  const markdownFiles = files.filter(file => path.extname(file) === '.md')
+  const markdownFiles = files.filter((file) => path.extname(file) === ".md");
   // set full path to file so we can pass directly to read
-  return markdownFiles.map(file => path.join(pwd, CONTENT_PATH, file));
-}
+  return markdownFiles.map((file) => path.join(pwd, CONTENT_PATH, file));
+};
 
 let allSlugs = null;
 
@@ -40,6 +40,6 @@ const getFrontmatter = (path) => {
   const fileContents = fs.readFileSync(path);
   const fileMatter = grayMatter(String(fileContents));
   return fileMatter.data;
-}
+};
 
 export { getAllPossibleSlugs };

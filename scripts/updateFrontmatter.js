@@ -12,14 +12,14 @@ function updateFrontmatter(path, writeFn) {
     ...writeFn(fileMatter.data),
   });
   console.log(`updating ${path}`);
-  fs.writeFile(path, newFileContents, err => {
+  fs.writeFile(path, newFileContents, (err) => {
     if (err) {
       throw new Error(err);
     }
   });
 }
 
-const addTitleWriter = frontmatter => {
+const addTitleWriter = (frontmatter) => {
   return { ...frontmatter, description: frontmatter.title || "none" };
 };
 
@@ -28,15 +28,15 @@ function getAllMarkdownFiles(root) {
   const entries = fs.readdirSync(postsDirectory);
 
   return entries
-    .filter(file => {
+    .filter((file) => {
       return path.extname(file) === ".md";
     })
-    .map(file => path.join(postsDirectory, file));
+    .map((file) => path.join(postsDirectory, file));
 }
 
 async function main(root) {
   const paths = await getAllMarkdownFiles(root);
-  paths.forEach(path => {
+  paths.forEach((path) => {
     updateFrontmatter(path, addTitleWriter);
   });
 }
