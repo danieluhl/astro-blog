@@ -2,6 +2,7 @@
 title: Live by the Codes
 pubDatetime: 2025-07-23T09:41:47.791Z
 description: Live by the Codes
+featured: true
 tags: 
   - philosophy
   - productivity

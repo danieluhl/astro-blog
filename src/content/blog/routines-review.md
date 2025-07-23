@@ -1,7 +1,7 @@
 ---
 title: Routines Review
 pubDatetime: 2024-01-05T11:29:22-05:00
-featured: true
+featured: false
 tags:
   - upkeep
   - productivity
