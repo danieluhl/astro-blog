@@ -46,7 +46,13 @@ _Do_ use AI:
 
 ## AI Cost 
 
+[youtube reference](https://youtu.be/xHHlhoRC8W4?si=sSBwr6WXjpE-ZcTm)
+
 The cost of AI includes developer happiness and productivity as well as the
 actual cost of the AI
 
 ![ai cost](./images/ai_cost.png)
+
+When do people use AI?
+
+![ai cost](./images/ai_use.png)
