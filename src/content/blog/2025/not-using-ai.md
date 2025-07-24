@@ -43,3 +43,10 @@ _Do_ use AI:
     good/natural vs typing things out. Superwhisper also works with claude code
     or gemini cli.
 - Blog logos: see above :)
+
+## AI Cost 
+
+The cost of AI includes developer happiness and productivity as well as the
+actual cost of the AI
+
+![ai cost](./images/ai_cost.png)
