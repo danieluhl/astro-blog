@@ -29,9 +29,16 @@ function toTitleCase(str) {
 
 function createPosts(title) {
   const today = new Date();
+  const year = today.getFullYear();
   const titleCaseTitle = toTitleCase(title);
   const filename = sanitize(title.split(" ").join("-").toLowerCase());
-  const filePath = path.join(POSTS_PATH, `${filename}.md`);
+  const yearDirectory = path.join(POSTS_PATH, year.toString());
+
+  if (!fs.existsSync(yearDirectory)) {
+    fs.mkdirSync(yearDirectory, { recursive: true });
+  }
+
+  const filePath = path.join(yearDirectory, `${filename}.md`);
 
   fs.appendFileSync(
     filePath,
