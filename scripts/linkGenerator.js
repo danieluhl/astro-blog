@@ -7,10 +7,20 @@ const CONTENT_PATH = "src/content/blog/";
 const pwd = process.cwd();
 
 const getAllBlogPaths = () => {
-  const files = fs.readdirSync(path.join(pwd, CONTENT_PATH));
-  const markdownFiles = files.filter((file) => path.extname(file) === ".md");
-  // set full path to file so we can pass directly to read
-  return markdownFiles.map((file) => path.join(pwd, CONTENT_PATH, file));
+  const walk = (dir, fileList = []) => {
+    const files = fs.readdirSync(dir);
+    files.forEach((file) => {
+      const filePath = path.join(dir, file);
+      const stat = fs.statSync(filePath);
+      if (stat.isDirectory()) {
+        fileList = walk(filePath, fileList);
+      } else if (path.extname(file) === ".md") {
+        fileList.push(filePath);
+      }
+    });
+    return fileList;
+  };
+  return walk(path.join(pwd, CONTENT_PATH));
 };
 
 let allSlugs = null;
