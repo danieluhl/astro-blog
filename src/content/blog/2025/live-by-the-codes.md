@@ -19,7 +19,11 @@ spell out how one should live.
 After reading this I was inspired to make my own set of "codes to live by". The
 idea is to look at sage wisdom from sources I trust, then reflect on my own
 way of acting and living to see if there are just a few top virtues that I
-struggle with. I landed on three:
+struggle with. I did a quick search for values I know to be good from
+skepticism, stoicims, and buddhism (see full findings at the bottom of this
+post) 
+
+I landed on three:
 
 ## 1. Temperance
 
@@ -35,36 +39,40 @@ too much candy or play a little too much video games here and there. Soon you'll
 realize your whole day is taken up by endulgance.
 
 Temperance relies heavily on mindfulness. You must be vigilant, self aware, and
-act with integrity. Temperance for the skeptics goes all the way to regulating
+act with integrity. Temperance for the stoics went all the way to regulating
 thought, "control your thoughts, they shape your reality". It is to regulate
 desiers and passions, avoid extremes, and most importantly, realize you can
 transmute the wild energy of passion into love, community, and hard work.
 
 ## 2. Speak Mindfully
 
-Never complain, even to yourself
+Never complain, even to yourself.
 
-Do not harbor hatred. Do not speak idly. Say what needs to be said at the right time, with full truth, affectionately, beneficially, and with a mind of good-will. Truthful, beneficial, altruistic, kind, timely.
+Do not harbor hatred. Do not speak idly. Say what needs to be said at the right
+time, with full truth, affectionately, beneficially, and with a mind of
+good-will. 
+
+Truthful, beneficial, altruistic, kind, and timely.
 
 Some public speakers or podcasters are clearly a level above others. It takes a
 lot of practice to be good. What "good" means here is consciously choosing the
 right words at the right times to convey accurately what you are trying to in
-the fewest words possible. Obviously that leaves "um" and "like" out of the
+the fewest words possible. That leaves "um" and "like" out of the
 sentences. But it also means expanding your vocabulary out to find better words.
 It also means being good at reading the room. Is this a time to give ernest
 praise? Is it a good time to land a bad joke?
-
-Also, never complain.
 
 ## 3. Embrace Community
 
 Put people first. Practice sympathetic joy, rejoicing in the happiness of others. Let go of anxiety.
 
-Don’t waste time worrying about other people’s opinions. Don’t suffer imagined troubles. Don’t presume what others think of you.
+Don’t waste time worrying about other people’s opinions. Don’t suffer imagined
+troubles. Don’t presume what others think of you.
 
 Sympathetic joy is the opposite of jealousy or envy, you genuinely feel great
 for others in their victories and expand their good feelings out to yourself and
-then to the world.
+then to the world. Think of metta (loving kindness) practice and get into that
+mindset often.
 
 For me community means fighting my social anxieties, reaching myself out into
 the world to interact genuinely with people where they are. Try to break through
@@ -76,7 +84,6 @@ moments give life value and are increasingly hard to come by.
 
 Below I'll dump all the references I used to come up with my codes. With AI I'm
 sure you can quickly come up with your own battle to fight.
-
 
 ## General 
 
