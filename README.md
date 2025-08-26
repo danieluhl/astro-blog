@@ -1,5 +1,7 @@
 # AstroPaper 📄
 
+test pre-commit hook
+
 ## My modifications
 
 - Build checks for bad links
