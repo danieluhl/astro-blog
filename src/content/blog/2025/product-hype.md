@@ -27,7 +27,7 @@ otherwise boring look flashy and highlighting the real impact relative to other
 things. Good marketing can steelman their opponents and still win.
 
 Evil marketing (almost all marketing) is when a company is stretching to be
-something they are not. They need to build hype and sell weather or not there is
+something they are not. They need to build hype and sell whether or not there is
 a real product to do so. They _would_ get blown over immediately if compared to
 opponents realistically, and so the only way to win is to distract, over sell
 and under deliver, and follow that quickly by the next distraction so nobody
