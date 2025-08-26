@@ -14,7 +14,7 @@ To grow a mustache you first grow a beard. Growing a beard happens gradually and
 People tend to not point it out unless they haven't seen you in a while. Then one day you shave
 everything but the mustache and suddenly you grew a mustache out of nowhere!
 
-To grow a career you must first grow your overall knoweldge and capability. Growing knowledge
+To grow a career you must first grow your overall knowledge and capability. Growing knowledge
 happens gradually and feels natural. People tend not to point it out unless they haven't seen you in
 a while. The one day you stop coding and suddenly you've become a lead out of nowhere!
 

@@ -26,7 +26,7 @@ layer-tap, and mod-morph. This will start your imagination running wild. And jus
 imagine having home row mod-taps that allow you to use asdf as ctrl, alt, cmd, and shift when held!
 Imagine having a proper 10 key number pad you can access with a key press!
 
-My strategy with home row mods is to use separate mod keys (pinkeys for shift and thumbs for the
+My strategy with home row mods is to use separate mod keys (pinky's for shift and thumbs for the
 rest) for single press/hold cases, and home-row mods as an option when I would otherwise be making a
 claw to hit all of them. So, for example, to hard refresh a website I'll hold 'k' (cmd) + 'j'
 (shift) and hit 'r'. But to switch tabs I'll hold the cmd key on the thumb and hit '}'. If you do
@@ -37,7 +37,7 @@ to borrow and use to optimize mine.
 1. Feel things out first
 
 Assuming you are a touch typer, sit with the keyboard disconnected and just type whatever comes to
-you. Play though common patterns in your mind like swtiching betwen programs and doing all the
+you. Play though common patterns in your mind like switching between programs and doing all the
 keyboard shortcuts that are most common.
 
 This is going to give you very fast iteration in your mind about where you might want modifier keys
@@ -48,7 +48,7 @@ and what definitely won't work. From doing this I came up with my first two prin
 It can be tempting to put all kinds of keyboard shortcuts and combos under individual keys when you
 have so many open. The possibilities are endless and you can quickly go overboard. But consider the
 tradeoffs. You likely want to remain reasonably proficient on a standard keyboard. You do not know
-all keyboard shorcuts you'll need in the future and you probably don't want to be constantly
+all keyboard shortcuts you'll need in the future and you probably don't want to be constantly
 adjusting your layout years down the line.
 
 It's more important to have a good way to do any possible combination, than a perfect way of only
@@ -72,8 +72,8 @@ Finally a whole bunch of things that just make sense for me:
 
 - I put % under 'p' on the symbols layer
 - ^ and $ are under 'h' and 'l' because left and right in vim and start/end in vim
-- # and \* are under 'j' and 'k' becuase up and down in vim and prev/next in vim
-- & and | are next to eachother
+- # and \* are under 'j' and 'k' because up and down in vim and prev/next in vim
+- & and | are next to each other
 - \ is under / on symbol layer
 
 ## Principles
@@ -91,5 +91,5 @@ Finally a whole bunch of things that just make sense for me:
 
 You'll note I don't entirely stick to these principles but thinking though them helped me get to a
 point where I can start to practice and refine over time. After two days with the glove80 I'm back
-to about 75 wpm (noramlly ~90) and I'm seeing how vim can be great with 10 key symbols under the
+to about 75 wpm (normally ~90) and I'm seeing how vim can be great with 10 key symbols under the
 fingers at all times.

@@ -217,7 +217,7 @@ There's nothing better than fresh fleece sheets in the winter!
 
 I'm on the spectrum of super-smellers. Smell is tied so strongly to memory and I often delight or
 disgust in the sillages many others fail to notice. Normally this is an augment to life but when it
-comes to picking a cologn or perfume for the wife, I'm VERY particular.
+comes to picking a cologne or perfume for the wife, I'm VERY particular.
 
 This gonna sound... not typical for me, but it's true: my wife and I were in Milan for fashion week.
 I had a side-quest to hunt down the parent company that makes the store smell for Moncler (one of my

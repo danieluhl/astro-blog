@@ -69,7 +69,7 @@ break the cycle by relaxing and taking control.
 | Notes (minimal theme) | [Obsidian (in vim mode)](https://obsidian.md/)   |
 | Spotlight (with AI)   | [Raycast](https://www.raycast.com/)              |
 | Blog                  | [Astro](https://github.com/danieluhl/astro-blog) |
-| Bar asthetics         | Hidden Bar and One Thing                         |
+| Bar aesthetics        | Hidden Bar and One Thing                         |
 
 ### Hardware
 

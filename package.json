@@ -3,6 +3,8 @@
   "version": "2.1.0",
   "scripts": {
     "dev": "astro dev",
+    "validate": "pnpm run spellcheck && pnpm run lint && pnpm run format && pnpm run build",
+    "spellcheck": "cspell \"**/*.md\"",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
@@ -19,6 +21,7 @@
     "@astrojs/rss": "latest",
     "@tailwindcss/postcss": "^4.1.11",
     "astro": "latest",
+    "cspell": "^9.2.0",
     "fuse.js": "latest",
     "github-slugger": "latest",
     "minimist": "latest",

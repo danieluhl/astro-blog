@@ -7,7 +7,7 @@ tags:
 ---
 
 In meditation, when you catch your mind wandering, this is the moment of clarity in the present. The
-catching youself is the meditating.
+catching yourself is the meditating.
 
 In life we are perpetually building towards something. Some day will come when all the prep is done
 and we can finally start living (retirement?). The catch is, we're already living and there is no

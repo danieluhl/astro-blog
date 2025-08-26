@@ -13,7 +13,7 @@ approached in different mindsets or contexts can both be enjoyable (not tedious)
 - Gather/soak all dishes::load dishwasher
 - Prepare clothes and tidy workout space::do a workout
 
-The task as a whole gives instant an difficult to control negative feelings - tightning of the
+The task as a whole gives instant an difficult to control negative feelings - tightening of the
 gut/chest, etc.
 
 However, preparing with a servant mindset often feels really good. You know that whoever approaches

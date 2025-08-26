@@ -12,5 +12,5 @@ doing.
 
 With a sotic mindset, we can turn discipline into motivation by wanting to do the very thing we
 should be doing. We can think through the short term suffering to the long term gains to the
-endevour. We can reassure ourselves that we are lucky to be in a position to be able to do the right
+endeavour. We can reassure ourselves that we are lucky to be in a position to be able to do the right
 thing.

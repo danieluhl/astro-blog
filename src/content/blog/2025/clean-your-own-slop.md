@@ -15,7 +15,7 @@ I had an experience in a college CS class one time. It was when iPods were all
 the rage (pre-iPhone). Having iPods in class was a grey area, they were
 distracting but could be ok if you're heads down working. I had mine in, playing
 some music, and I needed some help. The professor kindly answered what I needed
-and I, in my music stuper, looke up and said, "whuut?". Her eyes became daggers
+and I, in my music stuper, look up and said, "whuut?". Her eyes became daggers
 and I realized what an idiot I was and quickly put away my headphones, and later
 profusely apologized.
 

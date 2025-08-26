@@ -14,6 +14,6 @@ a disaster (yet) as severe as a world war, famine, disease, or global worming ef
 precipice of all of these and more, but none have taken hold and given the clarity and priority that
 comes with proper disaster.
 
-Anxiety, drug use, and suicide are rising. In absence of a real tradgety in our lives we are
+Anxiety, drug use, and suicide are rising. In absence of a real tragedy in our lives we are
 overwhelmed by the 2nd-5th priority concerns. Realize you can't take on everything and pick your
 battle. Along the way, enjoy how great it is to live in such a great time.

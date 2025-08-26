@@ -7,7 +7,7 @@ tags:
 ---
 
 Priority is about NOT doing the many "top priority" items on your list. Like a mustache is just a
-beard without the chin bits, or being vegitarian as mostly about NOT eating meat. Focus is mostly
+beard without the chin bits, or being vegetarian as mostly about NOT eating meat. Focus is mostly
 about how well you can avoid the 2nd priority item.
 
 It can help to pause for a moment to dwell on the reality of your situation. You have capacity to

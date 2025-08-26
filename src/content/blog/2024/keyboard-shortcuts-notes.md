@@ -7,7 +7,7 @@ tags:
   - programming
 ---
 
-These are my rough notes on the keyboard shortucts I use the most and that are the most universal
+These are my rough notes on the keyboard shortcuts I use the most and that are the most universal
 across programs you're likely to use.
 
 ## Mac
@@ -15,8 +15,8 @@ across programs you're likely to use.
 - Always remap your capslock key to something useful (I do ctrl) in the system keyboard settings
 - in finder, quickly jump to a file: `cmd+shift+g` and just start typing the folder name
 - cmd+shift+v pastes with destination formatting instead of source formatting
-- You probably know that double clicking will select a word, but tripple clicking will select a
-  sentence. When you're in the browser and want to quickly highlight the entrie URL, `cmd+l` does
+- You probably know that double clicking will select a word, but triple clicking will select a
+  sentence. When you're in the browser and want to quickly highlight the entry URL, `cmd+l` does
   this. So copying the current URL is as easy as `cmd+l cmd+c`.
 - hide that menu bar and use cmd+space (then type the program name) or cmd+tab (multiple to scroll)
   to switch programs
@@ -48,7 +48,7 @@ Dragging style
 - for devs, cmd+alt+i opens chrome dev tools and cmd+shift+c jumps straight to element selection and
   opens dev tools
 - cmd+[1..9] jump to tab
-- make new google docs by entring in the address bar: "docs.new", "sheets.new", "slides.new", or
+- make new google docs by entering in the address bar: "docs.new", "sheets.new", "slides.new", or
   "meet.new"
 
 Say you're on a web page and you want to go to a different page:

@@ -28,5 +28,5 @@ Incremental progress with [deliberate practice](04-21-nine-guidelines-for-delibe
 - Time on media
 - Time gaming
 
-Best to make persistent, validated, incremental steps with emperical results, both in the
+Best to make persistent, validated, incremental steps with empirical results, both in the
 maintenance of future negatives, and the pursuit of cumulative positives.

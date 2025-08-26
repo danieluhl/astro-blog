@@ -20,7 +20,7 @@ After reading this I was inspired to make my own set of "codes to live by". The
 idea is to look at sage wisdom from sources I trust, then reflect on my own
 way of acting and living to see if there are just a few top virtues that I
 struggle with. I did a quick search for values I know to be good from
-skepticism, stoicims, and buddhism (see full findings at the bottom of this
+skepticism, stoicisms, and buddhism (see full findings at the bottom of this
 post) 
 
 I landed on three:
@@ -41,7 +41,7 @@ realize your whole day is taken up by endulgance.
 Temperance relies heavily on mindfulness. You must be vigilant, self aware, and
 act with integrity. Temperance for the stoics went all the way to regulating
 thought, "control your thoughts, they shape your reality". It is to regulate
-desiers and passions, avoid extremes, and most importantly, realize you can
+desires and passions, avoid extremes, and most importantly, realize you can
 transmute the wild energy of passion into love, community, and hard work.
 
 ## 2. Speak Mindfully

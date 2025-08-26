@@ -27,7 +27,7 @@ should have a list of strong reasons and arguments that will help you persuade o
 ## Phase 2: Sell sell sell
 
 Buy-in is important. Surprising everyone with your idea or change in a large meeting is quite
-possibly the worst thing you can do. Insead let the idea sit with key stakeholders and get feedback
+possibly the worst thing you can do. Instead let the idea sit with key stakeholders and get feedback
 on all the ways it could fail, not work, or is simply a bad idea. Meeting 1:1 is best. Embrace
 negativity with open arms as challenges to solve on the way to fulfilling your purpose (see above).
 

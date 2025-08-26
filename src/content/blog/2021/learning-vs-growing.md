@@ -72,7 +72,7 @@ developed the habits (behaviors) for approaching new things and/or they haven't 
 the core common elements of software engineering.
 
 Therefore, to "level-up" or "upskill" is not a matter of teaching, for example, typescript. Rather
-it's a matter of understanging how typescript compares to all other categories of type systems. This
+it's a matter of understanding how typescript compares to all other categories of type systems. This
 is where the misunderstanding of "senior" engineer often comes into play. Because someone can make a
 website with one specific set of tools, doesn't mean they will be able to do so with changing
 requirements, tooling, systems, at scale, etc. Mastery at a deep level takes decades, not years, of

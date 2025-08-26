@@ -18,11 +18,11 @@ Over time, the API surface area of any abstraction may increase, purpose can shi
 from transparency, to muddy.
 
 Keeping the glass onion in mind is helpful to remember that while we strive to make abstractions to
-gain efficiencies in maintenance, reliability, and accurage representation of the domain model, we
+gain efficiencies in maintenance, reliability, and encourage representation of the domain model, we
 must also ensure that these benefits are not overshadowed by obfuscation.
 
 A good glass onion codebase lets engineers "see through" the abstraction to quickly understand
-what's happening underneith without having to dig through obscure tangles of code.
+what's happening underneath without having to dig through obscure tangles of code.
 
 Good typing, good naming, good file structure, and frequent refactoring to fit a ubiquitous language
 and domain model are all great for creating a glass onion codebase.

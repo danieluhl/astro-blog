@@ -18,4 +18,4 @@ that I actually enjoy doing dishes. Sometimes I strategically kept this a bit of
 build good will, but it's carried me well through a few restaurant jobs and with keeping things tidy
 at home.
 
-Learning and growing can also be fun, this doensn't mean it's not work or that it's not your job.
+Learning and growing can also be fun, this doesn't mean it's not work or that it's not your job.

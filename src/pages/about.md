@@ -6,7 +6,7 @@ title: "About"
 My name is Daniel Uhl. I've moved a lot:
 
 - Bozeman, MT
-- Portalnd, OR
+- Portland, OR
 - San Diego, CA
 - Boston, MA
 

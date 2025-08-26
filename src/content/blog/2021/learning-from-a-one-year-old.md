@@ -20,5 +20,5 @@ One trick I've heard of and tried to great success to avoid the fit of emotions 
 "no" to something they want, give more than one viable option. Instead of getting hung up on the
 thing they wanted, they begin to evaluate which option is better. This gives the illusion of choice
 and feeling of control, autonomy. This plays on a few different biases: availability heuristic,
-framing effect/achoring, and mitigates reactance bias. Needless to say, this pattern works wonders
+framing effect/anchoring, and mitigates reactance bias. Needless to say, this pattern works wonders
 on all humans, not just one year olds.

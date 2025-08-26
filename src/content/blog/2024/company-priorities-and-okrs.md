@@ -43,8 +43,8 @@ among teams going in different directions and fighting for different top priorit
 note is that it's less about the actual things we're doing and more about agreeing _how_ and _why_
 these things are important to be doing.
 
-Note that comapnies will often strive for few top priorities in their time period via well groomed,
-clear, and conscise OKRs. It doesn't matter if you have 2 priorities or 300, it's the same to me if
+Note that companies will often strive for few top priorities in their time period via well groomed,
+clear, and concise OKRs. It doesn't matter if you have 2 priorities or 300, it's the same to me if
 I don't have a clear understanding of what next step I'm going to take and the data and context as
 to why that next step priority is clear.
 

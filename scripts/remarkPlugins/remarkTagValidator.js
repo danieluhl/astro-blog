@@ -4,7 +4,7 @@ import path from "path";
 
 const VALID_TAGS = new Set([
   "productivity",
-  "managment",
+  "management",
   "philosophy",
   "programming",
   "upkeep",

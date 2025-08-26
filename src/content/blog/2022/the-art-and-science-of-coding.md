@@ -7,7 +7,7 @@ tags:
 ---
 
 Coding will always have some art. But with automated code generation like Github Copilot the trend
-is looking to be twoards more science at the edges, and pushing the art to the automated tooling
+is looking to be towards more science at the edges, and pushing the art to the automated tooling
 building.
 
 We see this trend towards science both on business side with lean practices (see Lean Enterprise

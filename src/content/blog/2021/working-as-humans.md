@@ -12,7 +12,7 @@ purpose.
 Some people give up and accept this fact choosing to separate their professional lives from their
 personal. I go to work to make money, and come home to find meaning in what time I have left. I
 don't mind being a cog in the wheel, and really, I don't see any other way things could be. And for
-many, they're right, but we increasinly live in a world where highly skilled workers are a rare
+many, they're right, but we increasingly live in a world where highly skilled workers are a rare
 resource that companies need to fight for. Software engineers are in this bucket.
 
 Others, however, enjoy working with other humans. They can ignore the profit goals of the company,

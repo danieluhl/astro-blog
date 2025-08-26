@@ -61,7 +61,7 @@ document for yourself.
 - Screen time in the bedroom
 - Trying to do a retro/reflect/gratitude journal (these just never worked for me)
 
-## A note on media (socal media or otherwise)
+## A note on media (social media or otherwise)
 
 Over the years I've re-wired my defaults for interaction with the internet to the point I don't feel
 the need to even mention social media or other apps/websites here. They just aren't a problem for

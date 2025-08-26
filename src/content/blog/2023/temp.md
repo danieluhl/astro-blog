@@ -6,7 +6,7 @@ tags:
   - philosophy
 ---
 
-<!-- All Valid Tags 'productivity', 'managment', 'philosophy', 'programming', 'upkeep' -->
+<!-- All Valid Tags 'productivity', 'management', 'philosophy', 'programming', 'upkeep' -->
 
 We're planning a Disney trip for my son's 4th birthday and my wife laid out the days and tickets
 we'll need to buy.
