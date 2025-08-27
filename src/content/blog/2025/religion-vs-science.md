@@ -1,6 +1,6 @@
 ---
 title: Religion vs Science
-pubDatetime: 2025-08-27T19:17:37.675Z
+pubDatetime: 2025-08-27T16:17:37.675Z
 description: Religion vs Science
 tags: 
   - philosophy
@@ -28,7 +28,7 @@ externally about this great new world we're going to build. None of this, by the
 way, is talked over with engineers who will be building the product.
 
 I'm pretty used to ignoring this kind of warped marketing/sales behavior, but
-what go to me is the ending. He booked a big launch demo event. To be clear, we
+what got to me is the ending. He booked a big launch demo event. To be clear, we
 didn't talk about or scope the work or even really decided on what we wanted to
 do, and he booked a demo event. This is bonkers.
 
@@ -54,5 +54,4 @@ say this is fine as long as you're truthful about what the car really is. But
 don't promise it will win races. If you're looking to win the race and really
 build the best product, always build first and sell once you know you have
 something.
-
 

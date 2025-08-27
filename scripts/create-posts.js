@@ -44,7 +44,7 @@ function createPosts(title) {
     filePath,
     `---
 title: ${titleCaseTitle}
-pubDatetime: ${today.toISOString()}
+pubDatetime: ${today.toLocaleDateString()}
 description: ${titleCaseTitle}
 tags: 
   - philosophy
