@@ -4,6 +4,7 @@
   "files": ["./src/**/*.{md}"],
   "dictionaries": ["typescript", "node"],
   "words": [
+    "backend",
     "abidings",
     "aeropress",
     "aesthetics",
