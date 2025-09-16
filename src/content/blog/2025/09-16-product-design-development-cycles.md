@@ -51,21 +51,21 @@ of possibilities to find the one that is right for the moment.
 Design and engineering have quick internal cycles to adapt the design to what is
 reasonable and consistent for the code to represent in final form to the
 customer. Note that the output of this can be going back to re-work the design,
-necessitate and update to the domain model, or can be a successful deploy.
+update to the domain model, or can be a successful deploy.
 
 # The Larger Cycle
 
 What really matters is the larger cycle, and so we aim to optimize for success
 in the larger cycle:
 
-** Typical Large Cycle **
+**Typical Large Cycle**
 
-Product identifies a problem 
-=> Devs + Product ideate on solutions
-=> Finalize any backend capabilities required
-=> Begin design cycle
-=> BE + Data side of FE work
-=> FE UI/UX work
+Product identifies a problem  
+=> Devs + Product ideate on solutions  
+=> Finalize any backend capabilities required  
+=> Begin design cycle  
+=> BE + Data side of FE work  
+=> FE UI/UX work  
 => Deploy and get customer feedback
 
 That last step is a big one! It completes the larger cycle. It's where we learn
@@ -84,7 +84,7 @@ Therefore, we should optimize for speed of iteration on the _larger_ cycle, and
 focus less on optimizing internal cycles. Coming up with the perfect design and
 implementation for the wrong solution is a waste on both ends.
 
-** How can we optimize to get customer feedback quickly? **
+**How can we optimize to get customer feedback quickly?**
 
 If the problem and solution are small or straight forward then we don't need to
 deviate from the typical cycle.
@@ -94,20 +94,20 @@ check, we can break into two customer feedback cycles. The first cycle cuts out
 the steps that take the longest (BE and Design work) to quickly get customer
 feedback.
 
-** First quick assumption check **
+**First quick assumption check**
 
-Product identifies a problem
-=> Devs + Product ideate on solutions
-=> Devs + Product identify first assumptions of the customer, success criteria
-=> FE UI/UX work to check an assumption
-=> Deploy to get customer feedback
+Product identifies a problem  
+=> Devs + Product ideate on solutions  
+=> Devs + Product identify first assumptions of the customer, success criteria  
+=> FE UI/UX work to check an assumption  
+=> Deploy to get customer feedback  
 
-** Back to typical cycle **
+**Back to typical cycle**
 
-Based on data, begin design cycle
-=> Begin design cycle
-=> BE + Data side of FE work
-=> FE UI/UX work
-=> Deploy and get customer feedback
+Based on data, begin design cycle  
+=> Begin design cycle  
+=> BE + Data side of FE work  
+=> FE UI/UX work  
+=> Deploy and get customer feedback  
 
 
