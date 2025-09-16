@@ -30,8 +30,10 @@ function toTitleCase(str) {
 function createPosts(title) {
   const today = new Date();
   const year = today.getFullYear();
+  const month = (today.getMonth() + 1).toString().padStart(2, "0");
+  const day = today.getDate().toString().padStart(2, "0");
   const titleCaseTitle = toTitleCase(title);
-  const filename = sanitize(title.split(" ").join("-").toLowerCase());
+  const filename = `${month}-${day}-${sanitize(title.split(" ").join("-").toLowerCase())}`;
   const yearDirectory = path.join(POSTS_PATH, year.toString());
 
   if (!fs.existsSync(yearDirectory)) {
