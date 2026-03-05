@@ -32,7 +32,7 @@ _never_ give one.
 
 Sometimes you find someone genuinely interested in how one might guess at how
 long software will take. In this case it's important to understand that time
-flows in one direction which creates an asymmetric probability distrubution for
+flows in one direction which creates an asymmetric probability distribution for
 when things may get done:
 
 ![estimation curve](./images/estimation_curve.png)
@@ -45,7 +45,7 @@ arrival and so far more flights are late than early or on time.
 
 This is the most common scenario and it's also sadly mistaken. When business
 sets a commitment date they give up the "what" will be delivered. This can often
-be fine, engineers are great at working within constarints. However, when
+be fine, engineers are great at working within constraints. However, when
 business asks, "when will X be delivered", it's a TRAP! What they're trying to
 do is the impossible: to know both when and what will be delivered. In this case
 we need to be clear - we can agree on a date, or we can talk in depth about what
