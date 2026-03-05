@@ -24,12 +24,22 @@ of these but found something even better.
 - [Uniqlo Undershirts](https://www.uniqlo.com/us/en/men/heattech)
   - Upgrade: [Lulu Lemon T-shirts](https://shop.lululemon.com/c/mens-t-shirts/)
 - [Vuori Sunday Performance Jogger](https://vuoriclothing.com/products/sunday-performance-jogger-black)
-- [Vuori Ponto Performance half zip
-  hoodie](https://vuoriclothing.com/products/ponto-performance-half-zip-hoodie-platinum-heather
+- [Vuori Ponto Performance half zip hoodie](https://vuoriclothing.com/products/ponto-performance-half-zip-hoodie-platinum-heather
 - [Parle Moi](https://parlemoideparfum.com/en/)
   - Home: [Lake & Skye](https://www.lakeandskye.com/products/11-11-eau-de-parfum)
 
 ### Coffee
+
+UPDATE: A couple things have changed over the years. I've just ordered an [Argos](https://www.odysseyespresso.com/products/argos-espresso-machine?variant=51112272724280). But it will not arrive for another 6 months so I can't give a review yet.
+
+For regular coffee I still use the aeropress but will more often use the Chemex
+or moka pot. I like all of these in different ways so it's good to have a
+variety of cheap and easy options.
+
+For beans I love the good.store beans for quality and also use terminal.shop
+because it's awesome ordering coffee over ssh.
+
+OLD:
 
 I recently purchased a top of the line drip coffee maker for $350 from Williams Sonoma. I was
 dreadfully underwhelmed. The aeropress was better and only $15. About this point I realized I really
@@ -56,6 +66,15 @@ donate ALL profit to a good cause.
 
 ### Hoodie
 
+UPDATE 3: I managed to track down the source of the SAULT pullover hoodie
+mentioned below. So if you're like me and you like no branding and a wider range
+of colors, and lower price, check this out:
+[Royale](https://royalapparel.com/triblend-fleece-pullover-hoody.html). Just
+be warned, this website is terrible and it's difficult to purchase from but
+you're going for discount here. I don't wash my hoodies, if you do then this may
+lose its softness faster than you want. But considering the price, you really
+can't go wrong here. I plan to grab one or two of these hoodies every year.
+
 UPDATE 2: [Duckworth Powder Hoodie](https://www.duckworthco.com/products/mens-powder-hoody) This is
 my top pick for outdoor midlayer hoodie. Not as great for indoors as it's too warm. Medium price,
 runs a bit baggy, super soft and super warm. The style of the folded hood is so much better than
@@ -67,9 +86,9 @@ UPDATE: My new fav is the
 [SAULT pullover hoodie](https://saultne.com/products/east-coast-pullover-sweatshirt). It runs a bit
 skinny but the softness is amazing.
 
-My current hoodie strategy is to buy one new
+~~My current hoodie strategy is to buy one new
 [Amazon Essentials hoodie](https://www.amazon.com/gp/product/B07NYBGWKG/) each year. It's soft and
-durable, looks great, and you don't need to worry about the price.
+durable, looks great, and you don't need to worry about the price.~~
 
 ~~If you're looking for the absolute best hoodie, I recommend the
 [Feat Hoodie](https://featclothing.com/collections/the-softest-hoodies-ever) but beware, I would
