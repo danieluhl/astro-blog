@@ -9,14 +9,11 @@ tags:
   - programming
 ---
 
-Say we're supposed to be talking about the environmental impact of forests. Some
-folks lack respect for others time and simply want to try to show off their
-knowledge an be avant-garde. They don't realize this makes them look foolish.
 Here's an example conversation. Say we're trying to talk about forests and
 environmental impact:
 
-So the forest is important for the environment and every tree uses roots to gain
-nutrition from the ground.
+"So the forest is important for the environment and every tree uses roots to gain
+nutrition from the ground."
 
 > Actually the trees get a ton of energy from the sun. Each tree has leaves or
 sometimes needles that have many cells. You know those green parts? Those are
