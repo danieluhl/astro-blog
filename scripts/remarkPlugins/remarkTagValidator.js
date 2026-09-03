@@ -1,6 +1,6 @@
-import fs from "fs";
+import fs from "node:fs";
 import grayMatter from "gray-matter";
-import path from "path";
+import path from "node:path";
 
 const VALID_TAGS = new Set([
   "productivity",

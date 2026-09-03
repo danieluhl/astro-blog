@@ -170,7 +170,7 @@ To this day the CEO fully believes he made the right decision despite my trying
 to explain to the contrary. He refuses to acknowledge the real problems with why
 development goes so slowly. He doesn't understand the dissonance in the old
 stack, or the magic of what we built with TheOne, and of course, he thinks AI
-can fix everthing.
+can fix everything.
 
 And maybe it can! I still have hope.
 

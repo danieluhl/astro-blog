@@ -3,7 +3,7 @@ import { getAllPossibleSlugs } from "../linkGenerator.js";
 
 const linkRegex = /(\.\.\/\d\d\d\d\/)?\d\d-\d\d-(.*?)(\.md)?$/gi;
 
-const replacerFn = (match, p1, p2) => {
+const replacerFn = (match, _p1, p2) => {
   console.log(`replacing ${match} with  ${p2}`);
   return `${p2}`;
 };

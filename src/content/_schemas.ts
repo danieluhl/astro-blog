@@ -1,4 +1,4 @@
-import { z } from "astro:content";
+import { z } from "astro/zod";
 
 const VALID_TAGS = new Set([
   "productivity",
@@ -21,9 +21,10 @@ export const blogSchema = z
       (arr) => {
         return arr.every((str) => VALID_TAGS.has(str));
       },
-      (arr) => {
-        const invalid = arr.filter((str) => !VALID_TAGS.has(str));
-        return { message: `Invalid tags: ${invalid}` };
+      {
+        error: (invalid) => {
+          return `Invalid tags: ${invalid.input}`;
+        },
       },
     ),
     ogImage: z.string().optional(),

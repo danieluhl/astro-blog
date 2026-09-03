@@ -46,8 +46,10 @@ export default function SearchBar({ searchList }: Props) {
 
     // put focus cursor at the end of the string
     setTimeout(() => {
-      inputRef.current!.selectionStart = inputRef.current!.selectionEnd =
-        searchStr?.length || 0;
+      const input = inputRef.current;
+      if (input) {
+        input.selectionStart = input.selectionEnd = searchStr?.length || 0;
+      }
     }, 50);
   }, []);
 
@@ -61,8 +63,7 @@ export default function SearchBar({ searchList }: Props) {
     if (inputVal.length > 0) {
       const searchParams = new URLSearchParams(window.location.search);
       searchParams.set("q", inputVal);
-      const newRelativePathQuery =
-        window.location.pathname + "?" + searchParams.toString();
+      const newRelativePathQuery = `${window.location.pathname}?${searchParams.toString()}`;
       history.pushState(null, "", newRelativePathQuery);
     } else {
       history.pushState(null, "", window.location.pathname);
@@ -103,14 +104,13 @@ export default function SearchBar({ searchList }: Props) {
       )}
 
       <ul>
-        {searchResults &&
-          searchResults.map(({ item, refIndex }) => (
-            <Card
-              href={`/posts/${slugify(item.data)}`}
-              frontmatter={item.data}
-              key={`${refIndex}-${slugify(item.data)}`}
-            />
-          ))}
+        {searchResults?.map(({ item, refIndex }) => (
+          <Card
+            href={`/posts/${slugify(item.data)}`}
+            frontmatter={item.data}
+            key={`${refIndex}-${slugify(item.data)}`}
+          />
+        ))}
       </ul>
     </>
   );

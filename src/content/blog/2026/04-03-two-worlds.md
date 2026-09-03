@@ -11,7 +11,7 @@ I straddle a window sill of my childhood home.
 I look to the left and see the open world. The hills, the trees, the grass, and
 a beautiful sunset. Open sky as far as I can see. Cars pass occasionally on the
 country road. The neighbor is upset with his son. Life carries on as it is;
-beautiful, grusome, painful, blissful, but always true to itself.
+beautiful, gruesome, painful, blissful, but always true to itself.
 
 I turn my head and look to the right and see the inside of the house. The room is small and cozy. Wood walls and
 floor, white ceiling, well lit. There is a decorative banzai tree that I spend

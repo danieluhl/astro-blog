@@ -1,5 +1,5 @@
-const path = require("path");
-const fs = require("fs");
+const path = require("node:path");
+const fs = require("node:fs");
 
 const oldFileRegex = /^\d\d-\d\d-/;
 const ROOT = "/Users/danieluhl/git/astro-blog/src/content/blog";

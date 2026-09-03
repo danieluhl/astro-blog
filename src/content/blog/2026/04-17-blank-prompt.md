@@ -69,7 +69,7 @@ But Charlie Parker also thought his music was bad. And at first it was. The
 point is this is not new. If we are concerned with what the majority think, we
 are all terrible at everything. That's fine, lets get past it.
 
-So what does this have to do with the future of humaity?
+So what does this have to do with the future of humanity?
 
 In a world of AI we're getting even more structure. We're guided by our
 teachers, parents, religion, peers, and now even our computers. Soon it will be

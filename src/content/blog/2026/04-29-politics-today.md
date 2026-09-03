@@ -6,7 +6,7 @@ tags:
   - philosophy
 ---
 
-Hey man, how you doin?
+Hey man, how you doing?
 
 > Yo, not bad, my car is broken tho
 

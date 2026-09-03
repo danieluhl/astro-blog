@@ -5,9 +5,9 @@ Creates a file with heading stub for new blog post
 e.g. `npm run post "Vim is so good"`
 
 */
-const path = require("path");
+const path = require("node:path");
 const argv = require("minimist")(process.argv.slice(2));
-const fs = require("fs");
+const fs = require("node:fs");
 const sanitize = require("sanitize-filename");
 
 // give one or more titles and this will scaffold out files with title and date

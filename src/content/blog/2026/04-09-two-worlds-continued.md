@@ -49,7 +49,7 @@ creatures. Doing this is good, failing to do this is evil.
 There are no "good" or "bad" people in the world as our mind imagines there
 should be. Building hate day after day for your neighbor based on your 2 minutes
 per month of brief judgemental interaction is building a world in which a person
-is innately evil. You may seeth over this person, sending hate and anger in your
+is innately evil. You may seethe over this person, sending hate and anger in your
 mind over and over and over until there's no doubt that you would do all sorts
 of violence to this deep evil that you imagine lives near you, but really only
 lives in your head.

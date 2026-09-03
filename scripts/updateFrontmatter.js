@@ -1,6 +1,6 @@
-const fs = require("fs");
+const fs = require("node:fs");
 const grayMatter = require("gray-matter");
-const path = require("path");
+const path = require("node:path");
 const argv = require("minimist")(process.argv.slice(2));
 
 // writeFn takes existing frontmatter and

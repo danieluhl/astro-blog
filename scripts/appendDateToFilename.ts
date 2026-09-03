@@ -1,4 +1,4 @@
-import * as path from "path";
+import * as path from "node:path";
 import * as fs from "fs-extra";
 import matter from "gray-matter";
 
@@ -19,7 +19,7 @@ async function processFile(filePath: string) {
       const pubDate = new Date(data.pubDatetime);
 
       // Check for an invalid date
-      if (isNaN(pubDate.getTime())) {
+      if (Number.isNaN(pubDate.getTime())) {
         console.warn(`Warning: Invalid date in file: ${filePath}`);
         return;
       }
@@ -41,7 +41,7 @@ async function processFile(filePath: string) {
 
       // Check if the file name is already in the correct format to avoid renaming twice.
       // We'll check for "MM-DD-" at the start of the filename.
-      if (!originalFileName.startsWith(formattedDate + "-")) {
+      if (!originalFileName.startsWith(`${formattedDate}-`)) {
         console.log(`Renaming: ${filePath} -> ${newFilePath}`);
         await fs.rename(filePath, newFilePath);
       } else {

@@ -1,3 +1,4 @@
+import { unified } from "@astrojs/markdown-remark";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
@@ -21,17 +22,18 @@ export default defineConfig({
     sitemap(),
   ],
   markdown: {
-    remarkPlugins: [
-      remarkLinkFixer,
-      // validatePostTags,
-      remarkToc,
-      [remarkCollapse, { test: "Table of Contents" }],
-      // [remarkValidateLinks, { root: "src/content/blog" }],
-    ],
+    processor: unified({
+      remarkPlugins: [
+        remarkLinkFixer,
+        // validatePostTags,
+        remarkToc,
+        [remarkCollapse, { test: "Table of Contents" }],
+        // [remarkValidateLinks, { root: "src/content/blog" }],
+      ],
+    }),
     shikiConfig: {
       theme: "one-dark-pro",
       wrap: true,
     },
-    extendDefaultPlugins: true,
   },
 });
