@@ -1,5 +1,6 @@
 {
   "type": "module",
+  "packageManager": "pnpm@10.x",
   "name": "astro-paper",
   "version": "2.1.0",
   "scripts": {
