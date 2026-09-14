@@ -27,6 +27,7 @@ vi.mock("../../linkGenerator.js", () => ({
       "what-makes-a-great-engineer",
       "my-cool-post",
       "participation-is-mandatory",
+      "make-time-tactics-list",
     ]);
   },
 }));
@@ -34,13 +35,13 @@ vi.mock("../../linkGenerator.js", () => ({
 import { remarkLinkFixer } from "../remarkLinkFixer.js";
 
 describe("remarkLinkFixer", () => {
-  it("transforms date-prefixed link to clean slug", () => {
+  it("transforms date-prefixed link to clean absolute slug", () => {
     const tree = {
       children: [{ type: "link", url: "09-08-what-makes-a-great-engineer" }],
     };
     const transform = remarkLinkFixer();
     transform(tree);
-    expect(tree.children[0].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
   });
 
   it("strips .md extension from link", () => {
@@ -49,7 +50,7 @@ describe("remarkLinkFixer", () => {
     };
     const transform = remarkLinkFixer();
     transform(tree);
-    expect(tree.children[0].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
   });
 
   it("strips relative path with year prefix", () => {
@@ -63,7 +64,7 @@ describe("remarkLinkFixer", () => {
     };
     const transform = remarkLinkFixer();
     transform(tree);
-    expect(tree.children[0].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
   });
 
   it("strips relative path with year prefix and .md extension", () => {
@@ -77,7 +78,7 @@ describe("remarkLinkFixer", () => {
     };
     const transform = remarkLinkFixer();
     transform(tree);
-    expect(tree.children[0].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
   });
 
   it("leaves external http links unchanged", () => {
@@ -98,13 +99,22 @@ describe("remarkLinkFixer", () => {
     expect(tree.children[0].url).toBe("chrome://settings");
   });
 
-  it("does not transform already-clean slugs", () => {
+  it("rewrites already-clean internal slugs to absolute paths", () => {
     const tree = {
       children: [{ type: "link", url: "what-makes-a-great-engineer" }],
     };
     const transform = remarkLinkFixer();
     transform(tree);
-    expect(tree.children[0].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
+  });
+
+  it("leaves already-absolute internal links unchanged", () => {
+    const tree = {
+      children: [{ type: "link", url: "/posts/what-makes-a-great-engineer" }],
+    };
+    const transform = remarkLinkFixer();
+    transform(tree);
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
   });
 
   it("validates that internal links point to existing slugs", () => {
@@ -135,9 +145,9 @@ describe("remarkLinkFixer", () => {
     };
     const transform = remarkLinkFixer();
     transform(tree);
-    expect(tree.children[0].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[0].url).toBe("/posts/what-makes-a-great-engineer");
     expect(tree.children[1].url).toBe("https://example.com");
-    expect(tree.children[2].url).toBe("participation-is-mandatory");
+    expect(tree.children[2].url).toBe("/posts/participation-is-mandatory");
   });
 
   it("skips non-link nodes", () => {
@@ -150,6 +160,42 @@ describe("remarkLinkFixer", () => {
     const transform = remarkLinkFixer();
     transform(tree);
     expect(tree.children[0].children[0].value).toBe("hello");
-    expect(tree.children[1].url).toBe("what-makes-a-great-engineer");
+    expect(tree.children[1].url).toBe("/posts/what-makes-a-great-engineer");
+  });
+
+  describe("trailing-slash regression", () => {
+    it("rewrites internal links to absolute /posts/ paths", () => {
+      const tree = {
+        children: [{ type: "link", url: "make-time-tactics-list" }],
+      };
+      const transform = remarkLinkFixer();
+      transform(tree);
+      expect(tree.children[0].url).toBe("/posts/make-time-tactics-list");
+    });
+
+    it("resolves internal links identically with and without a trailing slash", () => {
+      const tree = {
+        children: [{ type: "link", url: "make-time-tactics-list" }],
+      };
+      const transform = remarkLinkFixer();
+      transform(tree);
+      const link = tree.children[0].url;
+
+      const withSlash = new URL(
+        link,
+        "https://blog.reyan.me/posts/on-being-exhausted-and-busy/",
+      );
+      const withoutSlash = new URL(
+        link,
+        "https://blog.reyan.me/posts/on-being-exhausted-and-busy",
+      );
+
+      expect(withSlash.href).toBe(
+        "https://blog.reyan.me/posts/make-time-tactics-list",
+      );
+      expect(withoutSlash.href).toBe(
+        "https://blog.reyan.me/posts/make-time-tactics-list",
+      );
+    });
   });
 });

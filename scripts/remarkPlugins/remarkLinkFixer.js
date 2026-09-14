@@ -8,17 +8,26 @@ const replacerFn = (match, _p1, p2) => {
   return `${p2}`;
 };
 
+const isExternalUrl = (url) =>
+  url.includes("chrome://") || url.includes("http");
+
 export function remarkLinkFixer() {
   const allSlugs = getAllPossibleSlugs();
   function transformer(tree) {
     visit(tree, "link", (node) => {
       node.url = node.url.replace(linkRegex, replacerFn);
+      const slug = node.url.startsWith("/posts/")
+        ? node.url.slice("/posts/".length)
+        : node.url;
       if (
         !node.url.includes("chrome://") &&
         !node.url.includes("http") &&
-        !allSlugs.has(node.url)
+        !allSlugs.has(slug)
       ) {
         throw new Error(`Invalid url found: ${node.url}`);
+      }
+      if (!isExternalUrl(node.url)) {
+        node.url = `/posts/${node.url}`;
       }
     });
   }

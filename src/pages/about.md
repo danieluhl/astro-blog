@@ -10,7 +10,7 @@ My name is Daniel Uhl. I've moved a lot:
 - San Diego, CA
 - Boston, MA
 
-I live in Boston and work as a frontend focusted full-stack polyglot engineer for remote companies.
+I live in Boston and work as a frontend focused full-stack polyglot engineer for remote companies.
 
 ## Work
 
