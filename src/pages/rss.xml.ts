@@ -3,7 +3,7 @@ import rss from "@astrojs/rss";
 import { SITE } from "@config";
 import slugify from "@utils/slugify";
 
-export async function get() {
+export async function GET() {
   const posts = await getCollection("blog", ({ data }) => !data.draft);
   return rss({
     title: SITE.title,
