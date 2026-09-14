@@ -1,7 +1,6 @@
 ---
 title: Recommended Lifestyle Brands
 pubDatetime: 2024-01-05T11:29:22-05:00
-featured: true
 tags:
   - upkeep
 description: Dans Lifestyle Brands
